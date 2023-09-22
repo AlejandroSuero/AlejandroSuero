@@ -19,12 +19,12 @@ I like videogames and I am learning how to program them, but this is something m
 Some languages and frameworks I know are:
   - JavaScript/TypeScript
   - Java
-  - C#
+  - C# (learned for Unity3D)
   - Go (currently learning it)
   - C/C++ (currently learning them)
-  - Node.js
-  - Vue.js
-  - Netx.js
+  - Node
+  - Astro
+  - Next
   - React
   
 My contact info:
@@ -40,11 +40,11 @@ I am learning how to play drums at the moment. I am a bit of a metalhead, but wh
 
 ## Languages I speak
 
-| Language     | Level     |
-|--------------|-----------|
-| Spanish      | Native    |
-| English      | B2        |
-| Portuguese   | A1        |
+| Language     | Level         |
+|--------------|---------------|
+| Spanish      | Native        |
+| English      | Cambridge B2  |
+| Portuguese   | A1            |
 
 > **NOTE**: The levels are a reference based on Europe's language system, from A to C (C being the highest)
 >
