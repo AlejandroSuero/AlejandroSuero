@@ -1,0 +1,2740 @@
+mkdir -p build
+touch build/.ran-deps-cmake
+ninja  -C .deps
+ninja: Entering directory `.deps'
+[1/130] Performing build step for 'msgpack'
+[1/6] Building C object CMakeFiles/msgpack-c.dir/src/version.c.o
+[2/6] Building C object CMakeFiles/msgpack-c.dir/src/zone.c.o
+[3/6] Building C object CMakeFiles/msgpack-c.dir/src/vrefbuffer.c.o
+[4/6] Building C object CMakeFiles/msgpack-c.dir/src/objectc.c.o
+[5/6] Building C object CMakeFiles/msgpack-c.dir/src/unpack.c.o
+[6/6] Linking C static library libmsgpack-c.a
+[2/130] Performing install step for 'msgpack'
+[0/1] Install the project...
+-- Install configuration: "RelWithDebInfo"
+-- Installing: /Users/aome/neovim/.deps/usr/lib/libmsgpack-c.a
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/fbuffer.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/gcc_atomic.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/object.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/pack.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/pack_define.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/sbuffer.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/timestamp.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/unpack.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/unpack_define.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/unpack_template.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/util.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/version.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/version_master.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/vrefbuffer.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/zbuffer.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/zone.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/pack_template.h
+-- Installing: /Users/aome/neovim/.deps/usr/include/msgpack/sysdep.h
+-- Installing: /Users/aome/neovim/.deps/usr/lib/pkgconfig/msgpack-c.pc
+-- Installing: /Users/aome/neovim/.deps/usr/lib/cmake/msgpack-c/msgpack-c-targets.cmake
+-- Installing: /Users/aome/neovim/.deps/usr/lib/cmake/msgpack-c/msgpack-c-targets-relwithdebinfo.cmake
+-- Installing: /Users/aome/neovim/.deps/usr/lib/cmake/msgpack-c/msgpack-c-config.cmake
+-- Installing: /Users/aome/neovim/.deps/usr/lib/cmake/msgpack-c/msgpack-c-config-version.cmake
+[3/130] Completed 'msgpack'
+[4/130] Creating directories for 'treesitter-query'
+[5/130] Performing download step (download, verify and extract) for 'unibilium'
+FAILED: build/src/unibilium-stamp/unibilium-download /Users/aome/neovim/.deps/build/src/unibilium-stamp/unibilium-download 
+cd /Users/aome/neovim/.deps/build/src && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/unibilium-stamp/download-unibilium.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/unibilium-stamp/verify-unibilium.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/unibilium-stamp/extract-unibilium.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E touch /Users/aome/neovim/.deps/build/src/unibilium-stamp/unibilium-download
+-- verifying file...
+       file='/Users/aome/neovim/.deps/build/downloads/unibilium/d72c3598e7ac5d1ebf86ee268b8b4ed95c0fa628.tar.gz'
+-- SHA256 hash of
+    /Users/aome/neovim/.deps/build/downloads/unibilium/d72c3598e7ac5d1ebf86ee268b8b4ed95c0fa628.tar.gz
+  does not match expected value
+    expected: '9c4747c862ab5e3076dcf8fa8f0ea7a6b50f20ec5905618b9536655596797487'
+      actual: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+-- File already exists but hash mismatch. Removing...
+-- Downloading...
+   dst='/Users/aome/neovim/.deps/build/downloads/unibilium/d72c3598e7ac5d1ebf86ee268b8b4ed95c0fa628.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/neovim/unibilium/archive/d72c3598e7ac5d1ebf86ee268b8b4ed95c0fa628.tar.gz'
+CMake Error at unibilium-stamp/download-unibilium.cmake:170 (message):
+  Each download failed!
+
+    error: downloading 'https://github.com/neovim/unibilium/archive/d72c3598e7ac5d1ebf86ee268b8b4ed95c0fa628.tar.gz' failed
+          status_code: 60
+          status_string: "SSL peer certificate or SSH remote key was not OK"
+          log:
+          --- LOG BEGIN ---
+            Trying 140.82.121.3:443...
+
+  Connected to github.com (140.82.121.3) port 443 (#0)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [315 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [122 bytes data]
+
+  (304) (IN), TLS handshake, Unknown (8):
+
+  [19 bytes data]
+
+  (304) (IN), TLS handshake, Certificate (11):
+
+  [2459 bytes data]
+
+  (304) (IN), TLS handshake, CERT verify (15):
+
+  [80 bytes data]
+
+  (304) (IN), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  (304) (OUT), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256
+
+  ALPN: server accepted h2
+
+  Server certificate:
+
+   subject: C=US; ST=California; L=San Francisco; O=GitHub, Inc.; CN=github.com
+   start date: Feb 14 00:00:00 2023 GMT
+   expire date: Mar 14 23:59:59 2024 GMT
+   subjectAltName: host "github.com" matched cert's "github.com"
+   issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   SSL certificate verify ok.
+
+  using HTTP/2
+
+  h2 [:method: GET]
+
+  h2 [:scheme: https]
+
+  h2 [:authority: github.com]
+
+  h2 [:path:
+  /neovim/unibilium/archive/d72c3598e7ac5d1ebf86ee268b8b4ed95c0fa628.tar.gz]
+
+  h2 [user-agent: curl/7.87.0]
+
+  h2 [accept: */*]
+
+  Using Stream ID: 1 (easy handle 0x13d825000)
+
+  GET
+  /neovim/unibilium/archive/d72c3598e7ac5d1ebf86ee268b8b4ed95c0fa628.tar.gz
+  HTTP/2
+
+  Host: github.com
+
+  User-Agent: curl/7.87.0
+
+  Accept: */*
+
+  
+
+  HTTP/2 302 
+
+  server: GitHub.com
+
+  date: Fri, 10 Nov 2023 12:53:12 GMT
+
+  content-type: text/html; charset=utf-8
+
+  vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding,
+  Accept, X-Requested-With
+
+  location:
+  https://codeload.github.com/neovim/unibilium/tar.gz/d72c3598e7ac5d1ebf86ee268b8b4ed95c0fa628
+
+
+  cache-control: max-age=0, private
+
+  strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+  x-frame-options: deny
+
+  x-content-type-options: nosniff
+
+  x-xss-protection: 0
+
+  referrer-policy: no-referrer-when-downgrade
+
+  content-security-policy: default-src 'none'; base-uri 'self'; child-src
+  github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/;
+  connect-src 'self' uploads.github.com www.githubstatus.com
+  collector.github.com raw.githubusercontent.com api.githubcopilot.com
+  api.github.com github-cloud.s3.amazonaws.com
+  github-production-repository-file-5c1aeb.s3.amazonaws.com
+  github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com
+  logx.optimizely.com/v1/events objects-origin.githubusercontent.com
+  *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/
+  productionresultssa1.blob.core.windows.net/
+  productionresultssa2.blob.core.windows.net/
+  productionresultssa3.blob.core.windows.net/
+  productionresultssa4.blob.core.windows.net/
+  productionresultssa5.blob.core.windows.net/
+  productionresultssa6.blob.core.windows.net/
+  productionresultssa7.blob.core.windows.net/
+  productionresultssa8.blob.core.windows.net/
+  productionresultssa9.blob.core.windows.net/
+  staffwus201resultssa0.blob.core.windows.net/
+  staffwus201resultssa1.blob.core.windows.net/
+  prodweu01resultssa0.blob.core.windows.net/
+  prodweu01resultssa1.blob.core.windows.net/
+  prodweu01resultssa2.blob.core.windows.net/
+  prodweu01resultssa3.blob.core.windows.net/
+  wss://*.actions.githubusercontent.com
+  github-production-repository-image-32fea6.s3.amazonaws.com
+  github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com
+  wss://alive.github.com; font-src github.githubassets.com; form-action
+  'self' github.com gist.github.com objects-origin.githubusercontent.com;
+  frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com
+  notebooks.githubusercontent.com support.github.com; img-src 'self' data:
+  github.githubassets.com media.githubusercontent.com
+  camo.githubusercontent.com identicons.github.com
+  avatars.githubusercontent.com github-cloud.s3.amazonaws.com
+  objects.githubusercontent.com secured-user-images.githubusercontent.com/
+  user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com opengraph.githubassets.com
+  github-production-user-asset-6210df.s3.amazonaws.com
+  customer-stories-feed.github.com spotlights-feed.github.com
+  objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src
+  'self'; media-src github.com user-images.githubusercontent.com/
+  secured-user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com
+  github-production-user-asset-6210df.s3.amazonaws.com; script-src
+  github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com;
+  upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/
+  gist.github.com/assets-cdn/worker/
+
+  content-length: 0
+
+  x-github-request-id: C0DF:9B59:2DEF84EF:2E912E26:654E2828
+
+  
+
+  [0 bytes data]
+
+  Connection #0 to host github.com left intact
+
+  Issue another request to this URL:
+  'https://codeload.github.com/neovim/unibilium/tar.gz/d72c3598e7ac5d1ebf86ee268b8b4ed95c0fa628'
+
+
+    Trying 172.29.14.144:443...
+
+  Connected to codeload.github.com (172.29.14.144) port 443 (#1)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [324 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [81 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Certificate (11):
+
+  [903 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+
+  [333 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server finished (14):
+
+  [4 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+
+  [70 bytes data]
+
+  TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+
+  ALPN: server did not agree on a protocol.  Uses default.
+
+  Server certificate:
+
+   subject: C=US; ST=USA; L=New York; O=Optimization; OU=Optimization; CN=tomcat
+   start date: Aug 30 08:53:43 2019 GMT
+   expire date: Aug 25 08:53:43 2039 GMT
+
+  SSL: certificate subject name 'tomcat' does not match target host name
+  'codeload.github.com'
+
+  Closing connection 1
+
+  TLSv1.2 (OUT), TLS alert, close notify (256):
+
+  [2 bytes data]
+
+
+
+          --- LOG END ---
+          
+    
+
+
+[6/130] Performing download step (download, verify and extract) for 'libuv'
+FAILED: build/src/libuv-stamp/libuv-download /Users/aome/neovim/.deps/build/src/libuv-stamp/libuv-download 
+cd /Users/aome/neovim/.deps/build/src && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/libuv-stamp/download-libuv.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/libuv-stamp/verify-libuv.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/libuv-stamp/extract-libuv.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E touch /Users/aome/neovim/.deps/build/src/libuv-stamp/libuv-download
+-- verifying file...
+       file='/Users/aome/neovim/.deps/build/downloads/libuv/v1.47.0.tar.gz'
+-- SHA256 hash of
+    /Users/aome/neovim/.deps/build/downloads/libuv/v1.47.0.tar.gz
+  does not match expected value
+    expected: 'd50af7e6d72526db137e66fad812421c8a1cae09d146b0ec2bb9a22c5f23ba93'
+      actual: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+-- File already exists but hash mismatch. Removing...
+-- Downloading...
+   dst='/Users/aome/neovim/.deps/build/downloads/libuv/v1.47.0.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/libuv/libuv/archive/v1.47.0.tar.gz'
+CMake Error at libuv-stamp/download-libuv.cmake:170 (message):
+  Each download failed!
+
+    error: downloading 'https://github.com/libuv/libuv/archive/v1.47.0.tar.gz' failed
+          status_code: 60
+          status_string: "SSL peer certificate or SSH remote key was not OK"
+          log:
+          --- LOG BEGIN ---
+            Trying 140.82.121.3:443...
+
+  Connected to github.com (140.82.121.3) port 443 (#0)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [315 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [122 bytes data]
+
+  (304) (IN), TLS handshake, Unknown (8):
+
+  [19 bytes data]
+
+  (304) (IN), TLS handshake, Certificate (11):
+
+  [2459 bytes data]
+
+  (304) (IN), TLS handshake, CERT verify (15):
+
+  [79 bytes data]
+
+  (304) (IN), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  (304) (OUT), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256
+
+  ALPN: server accepted h2
+
+  Server certificate:
+
+   subject: C=US; ST=California; L=San Francisco; O=GitHub, Inc.; CN=github.com
+   start date: Feb 14 00:00:00 2023 GMT
+   expire date: Mar 14 23:59:59 2024 GMT
+   subjectAltName: host "github.com" matched cert's "github.com"
+   issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   SSL certificate verify ok.
+
+  using HTTP/2
+
+  h2 [:method: GET]
+
+  h2 [:scheme: https]
+
+  h2 [:authority: github.com]
+
+  h2 [:path: /libuv/libuv/archive/v1.47.0.tar.gz]
+
+  h2 [user-agent: curl/7.87.0]
+
+  h2 [accept: */*]
+
+  Using Stream ID: 1 (easy handle 0x133825000)
+
+  GET /libuv/libuv/archive/v1.47.0.tar.gz HTTP/2
+
+  Host: github.com
+
+  User-Agent: curl/7.87.0
+
+  Accept: */*
+
+  
+
+  HTTP/2 302 
+
+  server: GitHub.com
+
+  date: Fri, 10 Nov 2023 12:54:04 GMT
+
+  content-type: text/html; charset=utf-8
+
+  vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding,
+  Accept, X-Requested-With
+
+  location: https://codeload.github.com/libuv/libuv/tar.gz/refs/tags/v1.47.0
+
+  cache-control: max-age=0, private
+
+  strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+  x-frame-options: deny
+
+  x-content-type-options: nosniff
+
+  x-xss-protection: 0
+
+  referrer-policy: no-referrer-when-downgrade
+
+  content-security-policy: default-src 'none'; base-uri 'self'; child-src
+  github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/;
+  connect-src 'self' uploads.github.com www.githubstatus.com
+  collector.github.com raw.githubusercontent.com api.githubcopilot.com
+  api.github.com github-cloud.s3.amazonaws.com
+  github-production-repository-file-5c1aeb.s3.amazonaws.com
+  github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com
+  logx.optimizely.com/v1/events objects-origin.githubusercontent.com
+  *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/
+  productionresultssa1.blob.core.windows.net/
+  productionresultssa2.blob.core.windows.net/
+  productionresultssa3.blob.core.windows.net/
+  productionresultssa4.blob.core.windows.net/
+  productionresultssa5.blob.core.windows.net/
+  productionresultssa6.blob.core.windows.net/
+  productionresultssa7.blob.core.windows.net/
+  productionresultssa8.blob.core.windows.net/
+  productionresultssa9.blob.core.windows.net/
+  staffwus201resultssa0.blob.core.windows.net/
+  staffwus201resultssa1.blob.core.windows.net/
+  prodweu01resultssa0.blob.core.windows.net/
+  prodweu01resultssa1.blob.core.windows.net/
+  prodweu01resultssa2.blob.core.windows.net/
+  prodweu01resultssa3.blob.core.windows.net/
+  wss://*.actions.githubusercontent.com
+  github-production-repository-image-32fea6.s3.amazonaws.com
+  github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com
+  wss://alive.github.com; font-src github.githubassets.com; form-action
+  'self' github.com gist.github.com objects-origin.githubusercontent.com;
+  frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com
+  notebooks.githubusercontent.com support.github.com; img-src 'self' data:
+  github.githubassets.com media.githubusercontent.com
+  camo.githubusercontent.com identicons.github.com
+  avatars.githubusercontent.com github-cloud.s3.amazonaws.com
+  objects.githubusercontent.com secured-user-images.githubusercontent.com/
+  user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com opengraph.githubassets.com
+  github-production-user-asset-6210df.s3.amazonaws.com
+  customer-stories-feed.github.com spotlights-feed.github.com
+  objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src
+  'self'; media-src github.com user-images.githubusercontent.com/
+  secured-user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com
+  github-production-user-asset-6210df.s3.amazonaws.com; script-src
+  github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com;
+  upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/
+  gist.github.com/assets-cdn/worker/
+
+  content-length: 0
+
+  x-github-request-id: C0DC:9B59:2DEF84F2:2E912E2B:654E2828
+
+  
+
+  [0 bytes data]
+
+  Connection #0 to host github.com left intact
+
+  Issue another request to this URL:
+  'https://codeload.github.com/libuv/libuv/tar.gz/refs/tags/v1.47.0'
+
+    Trying 172.29.14.144:443...
+
+  Connected to codeload.github.com (172.29.14.144) port 443 (#1)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [324 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [81 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Certificate (11):
+
+  [903 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+
+  [333 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server finished (14):
+
+  [4 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+
+  [70 bytes data]
+
+  TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+
+  ALPN: server did not agree on a protocol.  Uses default.
+
+  Server certificate:
+
+   subject: C=US; ST=USA; L=New York; O=Optimization; OU=Optimization; CN=tomcat
+   start date: Aug 30 08:53:43 2019 GMT
+   expire date: Aug 25 08:53:43 2039 GMT
+
+  SSL: certificate subject name 'tomcat' does not match target host name
+  'codeload.github.com'
+
+  Closing connection 1
+
+  TLSv1.2 (OUT), TLS alert, close notify (256):
+
+  [2 bytes data]
+
+
+
+          --- LOG END ---
+          
+    
+
+
+[7/130] Performing download step (download, verify and extract) for 'luajit'
+FAILED: build/src/luajit-stamp/luajit-download /Users/aome/neovim/.deps/build/src/luajit-stamp/luajit-download 
+cd /Users/aome/neovim/.deps/build/src && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/luajit-stamp/download-luajit.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/luajit-stamp/verify-luajit.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/luajit-stamp/extract-luajit.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E touch /Users/aome/neovim/.deps/build/src/luajit-stamp/luajit-download
+-- verifying file...
+       file='/Users/aome/neovim/.deps/build/downloads/luajit/b94fbfbee9e7dd0979e35aacea7fcdd43905789b.tar.gz'
+-- SHA256 hash of
+    /Users/aome/neovim/.deps/build/downloads/luajit/b94fbfbee9e7dd0979e35aacea7fcdd43905789b.tar.gz
+  does not match expected value
+    expected: '4fe0cf9323c87fdb717d3b8cd81441d2ead21c14842ed61172b3e99a5892043e'
+      actual: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+-- File already exists but hash mismatch. Removing...
+-- Downloading...
+   dst='/Users/aome/neovim/.deps/build/downloads/luajit/b94fbfbee9e7dd0979e35aacea7fcdd43905789b.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/LuaJIT/LuaJIT/archive/b94fbfbee9e7dd0979e35aacea7fcdd43905789b.tar.gz'
+CMake Error at luajit-stamp/download-luajit.cmake:170 (message):
+  Each download failed!
+
+    error: downloading 'https://github.com/LuaJIT/LuaJIT/archive/b94fbfbee9e7dd0979e35aacea7fcdd43905789b.tar.gz' failed
+          status_code: 60
+          status_string: "SSL peer certificate or SSH remote key was not OK"
+          log:
+          --- LOG BEGIN ---
+            Trying 140.82.121.3:443...
+
+  Connected to github.com (140.82.121.3) port 443 (#0)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [315 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [122 bytes data]
+
+  (304) (IN), TLS handshake, Unknown (8):
+
+  [19 bytes data]
+
+  (304) (IN), TLS handshake, Certificate (11):
+
+  [2459 bytes data]
+
+  (304) (IN), TLS handshake, CERT verify (15):
+
+  [79 bytes data]
+
+  (304) (IN), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  (304) (OUT), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256
+
+  ALPN: server accepted h2
+
+  Server certificate:
+
+   subject: C=US; ST=California; L=San Francisco; O=GitHub, Inc.; CN=github.com
+   start date: Feb 14 00:00:00 2023 GMT
+   expire date: Mar 14 23:59:59 2024 GMT
+   subjectAltName: host "github.com" matched cert's "github.com"
+   issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   SSL certificate verify ok.
+
+  using HTTP/2
+
+  h2 [:method: GET]
+
+  h2 [:scheme: https]
+
+  h2 [:authority: github.com]
+
+  h2 [:path:
+  /LuaJIT/LuaJIT/archive/b94fbfbee9e7dd0979e35aacea7fcdd43905789b.tar.gz]
+
+  h2 [user-agent: curl/7.87.0]
+
+  h2 [accept: */*]
+
+  Using Stream ID: 1 (easy handle 0x142009a00)
+
+  GET /LuaJIT/LuaJIT/archive/b94fbfbee9e7dd0979e35aacea7fcdd43905789b.tar.gz
+  HTTP/2
+
+  Host: github.com
+
+  User-Agent: curl/7.87.0
+
+  Accept: */*
+
+  
+
+  HTTP/2 302 
+
+  server: GitHub.com
+
+  date: Fri, 10 Nov 2023 12:54:04 GMT
+
+  content-type: text/html; charset=utf-8
+
+  vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding,
+  Accept, X-Requested-With
+
+  location:
+  https://codeload.github.com/LuaJIT/LuaJIT/tar.gz/b94fbfbee9e7dd0979e35aacea7fcdd43905789b
+
+
+  cache-control: max-age=0, private
+
+  strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+  x-frame-options: deny
+
+  x-content-type-options: nosniff
+
+  x-xss-protection: 0
+
+  referrer-policy: no-referrer-when-downgrade
+
+  content-security-policy: default-src 'none'; base-uri 'self'; child-src
+  github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/;
+  connect-src 'self' uploads.github.com www.githubstatus.com
+  collector.github.com raw.githubusercontent.com api.githubcopilot.com
+  api.github.com github-cloud.s3.amazonaws.com
+  github-production-repository-file-5c1aeb.s3.amazonaws.com
+  github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com
+  logx.optimizely.com/v1/events objects-origin.githubusercontent.com
+  *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/
+  productionresultssa1.blob.core.windows.net/
+  productionresultssa2.blob.core.windows.net/
+  productionresultssa3.blob.core.windows.net/
+  productionresultssa4.blob.core.windows.net/
+  productionresultssa5.blob.core.windows.net/
+  productionresultssa6.blob.core.windows.net/
+  productionresultssa7.blob.core.windows.net/
+  productionresultssa8.blob.core.windows.net/
+  productionresultssa9.blob.core.windows.net/
+  staffwus201resultssa0.blob.core.windows.net/
+  staffwus201resultssa1.blob.core.windows.net/
+  prodweu01resultssa0.blob.core.windows.net/
+  prodweu01resultssa1.blob.core.windows.net/
+  prodweu01resultssa2.blob.core.windows.net/
+  prodweu01resultssa3.blob.core.windows.net/
+  wss://*.actions.githubusercontent.com
+  github-production-repository-image-32fea6.s3.amazonaws.com
+  github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com
+  wss://alive.github.com; font-src github.githubassets.com; form-action
+  'self' github.com gist.github.com objects-origin.githubusercontent.com;
+  frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com
+  notebooks.githubusercontent.com support.github.com; img-src 'self' data:
+  github.githubassets.com media.githubusercontent.com
+  camo.githubusercontent.com identicons.github.com
+  avatars.githubusercontent.com github-cloud.s3.amazonaws.com
+  objects.githubusercontent.com secured-user-images.githubusercontent.com/
+  user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com opengraph.githubassets.com
+  github-production-user-asset-6210df.s3.amazonaws.com
+  customer-stories-feed.github.com spotlights-feed.github.com
+  objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src
+  'self'; media-src github.com user-images.githubusercontent.com/
+  secured-user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com
+  github-production-user-asset-6210df.s3.amazonaws.com; script-src
+  github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com;
+  upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/
+  gist.github.com/assets-cdn/worker/
+
+  content-length: 0
+
+  x-github-request-id: C0E1:1361A:2E0CC799:2EAF9FCE:654E2828
+
+  
+
+  [0 bytes data]
+
+  Connection #0 to host github.com left intact
+
+  Issue another request to this URL:
+  'https://codeload.github.com/LuaJIT/LuaJIT/tar.gz/b94fbfbee9e7dd0979e35aacea7fcdd43905789b'
+
+
+    Trying 172.29.14.144:443...
+
+  Connected to codeload.github.com (172.29.14.144) port 443 (#1)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [324 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [81 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Certificate (11):
+
+  [903 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+
+  [333 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server finished (14):
+
+  [4 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+
+  [70 bytes data]
+
+  TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+
+  ALPN: server did not agree on a protocol.  Uses default.
+
+  Server certificate:
+
+   subject: C=US; ST=USA; L=New York; O=Optimization; OU=Optimization; CN=tomcat
+   start date: Aug 30 08:53:43 2019 GMT
+   expire date: Aug 25 08:53:43 2039 GMT
+
+  SSL: certificate subject name 'tomcat' does not match target host name
+  'codeload.github.com'
+
+  Closing connection 1
+
+  TLSv1.2 (OUT), TLS alert, close notify (256):
+
+  [2 bytes data]
+
+
+
+          --- LOG END ---
+          
+    
+
+
+[8/130] Performing download step (download, verify and extract) for 'libvterm'
+FAILED: build/src/libvterm-stamp/libvterm-download /Users/aome/neovim/.deps/build/src/libvterm-stamp/libvterm-download 
+cd /Users/aome/neovim/.deps/build/src && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/libvterm-stamp/download-libvterm.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/libvterm-stamp/verify-libvterm.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/libvterm-stamp/extract-libvterm.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E touch /Users/aome/neovim/.deps/build/src/libvterm-stamp/libvterm-download
+-- verifying file...
+       file='/Users/aome/neovim/.deps/build/downloads/libvterm/v0.3.3.tar.gz'
+-- SHA256 hash of
+    /Users/aome/neovim/.deps/build/downloads/libvterm/v0.3.3.tar.gz
+  does not match expected value
+    expected: '0babe3ab42c354925dadede90d352f054aa9c4ae6842ea803a20c9741e172e56'
+      actual: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+-- File already exists but hash mismatch. Removing...
+-- Downloading...
+   dst='/Users/aome/neovim/.deps/build/downloads/libvterm/v0.3.3.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/neovim/libvterm/archive/v0.3.3.tar.gz'
+CMake Error at libvterm-stamp/download-libvterm.cmake:170 (message):
+  Each download failed!
+
+    error: downloading 'https://github.com/neovim/libvterm/archive/v0.3.3.tar.gz' failed
+          status_code: 60
+          status_string: "SSL peer certificate or SSH remote key was not OK"
+          log:
+          --- LOG BEGIN ---
+            Trying 140.82.121.3:443...
+
+  Connected to github.com (140.82.121.3) port 443 (#0)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [315 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [122 bytes data]
+
+  (304) (IN), TLS handshake, Unknown (8):
+
+  [19 bytes data]
+
+  (304) (IN), TLS handshake, Certificate (11):
+
+  [2459 bytes data]
+
+  (304) (IN), TLS handshake, CERT verify (15):
+
+  [78 bytes data]
+
+  (304) (IN), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  (304) (OUT), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256
+
+  ALPN: server accepted h2
+
+  Server certificate:
+
+   subject: C=US; ST=California; L=San Francisco; O=GitHub, Inc.; CN=github.com
+   start date: Feb 14 00:00:00 2023 GMT
+   expire date: Mar 14 23:59:59 2024 GMT
+   subjectAltName: host "github.com" matched cert's "github.com"
+   issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   SSL certificate verify ok.
+
+  using HTTP/2
+
+  h2 [:method: GET]
+
+  h2 [:scheme: https]
+
+  h2 [:authority: github.com]
+
+  h2 [:path: /neovim/libvterm/archive/v0.3.3.tar.gz]
+
+  h2 [user-agent: curl/7.87.0]
+
+  h2 [accept: */*]
+
+  Using Stream ID: 1 (easy handle 0x15d80c200)
+
+  GET /neovim/libvterm/archive/v0.3.3.tar.gz HTTP/2
+
+  Host: github.com
+
+  User-Agent: curl/7.87.0
+
+  Accept: */*
+
+  
+
+  HTTP/2 302 
+
+  server: GitHub.com
+
+  date: Fri, 10 Nov 2023 12:53:12 GMT
+
+  content-type: text/html; charset=utf-8
+
+  vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding,
+  Accept, X-Requested-With
+
+  location:
+  https://codeload.github.com/neovim/libvterm/tar.gz/refs/tags/v0.3.3
+
+  cache-control: max-age=0, private
+
+  strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+  x-frame-options: deny
+
+  x-content-type-options: nosniff
+
+  x-xss-protection: 0
+
+  referrer-policy: no-referrer-when-downgrade
+
+  content-security-policy: default-src 'none'; base-uri 'self'; child-src
+  github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/;
+  connect-src 'self' uploads.github.com www.githubstatus.com
+  collector.github.com raw.githubusercontent.com api.githubcopilot.com
+  api.github.com github-cloud.s3.amazonaws.com
+  github-production-repository-file-5c1aeb.s3.amazonaws.com
+  github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com
+  logx.optimizely.com/v1/events objects-origin.githubusercontent.com
+  *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/
+  productionresultssa1.blob.core.windows.net/
+  productionresultssa2.blob.core.windows.net/
+  productionresultssa3.blob.core.windows.net/
+  productionresultssa4.blob.core.windows.net/
+  productionresultssa5.blob.core.windows.net/
+  productionresultssa6.blob.core.windows.net/
+  productionresultssa7.blob.core.windows.net/
+  productionresultssa8.blob.core.windows.net/
+  productionresultssa9.blob.core.windows.net/
+  staffwus201resultssa0.blob.core.windows.net/
+  staffwus201resultssa1.blob.core.windows.net/
+  prodweu01resultssa0.blob.core.windows.net/
+  prodweu01resultssa1.blob.core.windows.net/
+  prodweu01resultssa2.blob.core.windows.net/
+  prodweu01resultssa3.blob.core.windows.net/
+  wss://*.actions.githubusercontent.com
+  github-production-repository-image-32fea6.s3.amazonaws.com
+  github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com
+  wss://alive.github.com; font-src github.githubassets.com; form-action
+  'self' github.com gist.github.com objects-origin.githubusercontent.com;
+  frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com
+  notebooks.githubusercontent.com support.github.com; img-src 'self' data:
+  github.githubassets.com media.githubusercontent.com
+  camo.githubusercontent.com identicons.github.com
+  avatars.githubusercontent.com github-cloud.s3.amazonaws.com
+  objects.githubusercontent.com secured-user-images.githubusercontent.com/
+  user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com opengraph.githubassets.com
+  github-production-user-asset-6210df.s3.amazonaws.com
+  customer-stories-feed.github.com spotlights-feed.github.com
+  objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src
+  'self'; media-src github.com user-images.githubusercontent.com/
+  secured-user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com
+  github-production-user-asset-6210df.s3.amazonaws.com; script-src
+  github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com;
+  upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/
+  gist.github.com/assets-cdn/worker/
+
+  content-length: 0
+
+  x-github-request-id: C0E0:A6E1:2C13986E:2CB5D6B5:654E2828
+
+  
+
+  [0 bytes data]
+
+  Connection #0 to host github.com left intact
+
+  Issue another request to this URL:
+  'https://codeload.github.com/neovim/libvterm/tar.gz/refs/tags/v0.3.3'
+
+    Trying 172.29.14.144:443...
+
+  Connected to codeload.github.com (172.29.14.144) port 443 (#1)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [324 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [81 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Certificate (11):
+
+  [903 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+
+  [333 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server finished (14):
+
+  [4 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+
+  [70 bytes data]
+
+  TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+
+  ALPN: server did not agree on a protocol.  Uses default.
+
+  Server certificate:
+
+   subject: C=US; ST=USA; L=New York; O=Optimization; OU=Optimization; CN=tomcat
+   start date: Aug 30 08:53:43 2019 GMT
+   expire date: Aug 25 08:53:43 2039 GMT
+
+  SSL: certificate subject name 'tomcat' does not match target host name
+  'codeload.github.com'
+
+  Closing connection 1
+
+  TLSv1.2 (OUT), TLS alert, close notify (256):
+
+  [2 bytes data]
+
+
+
+          --- LOG END ---
+          
+    
+
+
+[9/130] Performing download step (download, verify and extract) for 'treesitter-lua'
+FAILED: build/src/treesitter-lua-stamp/treesitter-lua-download /Users/aome/neovim/.deps/build/src/treesitter-lua-stamp/treesitter-lua-download 
+cd /Users/aome/neovim/.deps/build/src && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-lua-stamp/download-treesitter-lua.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-lua-stamp/verify-treesitter-lua.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-lua-stamp/extract-treesitter-lua.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E touch /Users/aome/neovim/.deps/build/src/treesitter-lua-stamp/treesitter-lua-download
+-- verifying file...
+       file='/Users/aome/neovim/.deps/build/downloads/treesitter-lua/v0.0.19.tar.gz'
+-- SHA256 hash of
+    /Users/aome/neovim/.deps/build/downloads/treesitter-lua/v0.0.19.tar.gz
+  does not match expected value
+    expected: '974230f212d0049fce8e881b88b18eebbd05f1fd0edd16fe4ba5bdd2bcd78d08'
+      actual: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+-- File already exists but hash mismatch. Removing...
+-- Downloading...
+   dst='/Users/aome/neovim/.deps/build/downloads/treesitter-lua/v0.0.19.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/MunifTanjim/tree-sitter-lua/archive/v0.0.19.tar.gz'
+CMake Error at treesitter-lua-stamp/download-treesitter-lua.cmake:170 (message):
+  Each download failed!
+
+    error: downloading 'https://github.com/MunifTanjim/tree-sitter-lua/archive/v0.0.19.tar.gz' failed
+          status_code: 60
+          status_string: "SSL peer certificate or SSH remote key was not OK"
+          log:
+          --- LOG BEGIN ---
+            Trying 140.82.121.3:443...
+
+  Connected to github.com (140.82.121.3) port 443 (#0)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [315 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [122 bytes data]
+
+  (304) (IN), TLS handshake, Unknown (8):
+
+  [19 bytes data]
+
+  (304) (IN), TLS handshake, Certificate (11):
+
+  [2459 bytes data]
+
+  (304) (IN), TLS handshake, CERT verify (15):
+
+  [79 bytes data]
+
+  (304) (IN), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  (304) (OUT), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256
+
+  ALPN: server accepted h2
+
+  Server certificate:
+
+   subject: C=US; ST=California; L=San Francisco; O=GitHub, Inc.; CN=github.com
+   start date: Feb 14 00:00:00 2023 GMT
+   expire date: Mar 14 23:59:59 2024 GMT
+   subjectAltName: host "github.com" matched cert's "github.com"
+   issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   SSL certificate verify ok.
+
+  using HTTP/2
+
+  h2 [:method: GET]
+
+  h2 [:scheme: https]
+
+  h2 [:authority: github.com]
+
+  h2 [:path: /MunifTanjim/tree-sitter-lua/archive/v0.0.19.tar.gz]
+
+  h2 [user-agent: curl/7.87.0]
+
+  h2 [accept: */*]
+
+  Using Stream ID: 1 (easy handle 0x129009a00)
+
+  GET /MunifTanjim/tree-sitter-lua/archive/v0.0.19.tar.gz HTTP/2
+
+  Host: github.com
+
+  User-Agent: curl/7.87.0
+
+  Accept: */*
+
+  
+
+  HTTP/2 302 
+
+  server: GitHub.com
+
+  date: Fri, 10 Nov 2023 12:54:04 GMT
+
+  content-type: text/html; charset=utf-8
+
+  vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding,
+  Accept, X-Requested-With
+
+  location:
+  https://codeload.github.com/MunifTanjim/tree-sitter-lua/tar.gz/refs/tags/v0.0.19
+
+
+  cache-control: max-age=0, private
+
+  strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+  x-frame-options: deny
+
+  x-content-type-options: nosniff
+
+  x-xss-protection: 0
+
+  referrer-policy: no-referrer-when-downgrade
+
+  content-security-policy: default-src 'none'; base-uri 'self'; child-src
+  github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/;
+  connect-src 'self' uploads.github.com www.githubstatus.com
+  collector.github.com raw.githubusercontent.com api.githubcopilot.com
+  api.github.com github-cloud.s3.amazonaws.com
+  github-production-repository-file-5c1aeb.s3.amazonaws.com
+  github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com
+  logx.optimizely.com/v1/events objects-origin.githubusercontent.com
+  *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/
+  productionresultssa1.blob.core.windows.net/
+  productionresultssa2.blob.core.windows.net/
+  productionresultssa3.blob.core.windows.net/
+  productionresultssa4.blob.core.windows.net/
+  productionresultssa5.blob.core.windows.net/
+  productionresultssa6.blob.core.windows.net/
+  productionresultssa7.blob.core.windows.net/
+  productionresultssa8.blob.core.windows.net/
+  productionresultssa9.blob.core.windows.net/
+  staffwus201resultssa0.blob.core.windows.net/
+  staffwus201resultssa1.blob.core.windows.net/
+  prodweu01resultssa0.blob.core.windows.net/
+  prodweu01resultssa1.blob.core.windows.net/
+  prodweu01resultssa2.blob.core.windows.net/
+  prodweu01resultssa3.blob.core.windows.net/
+  wss://*.actions.githubusercontent.com
+  github-production-repository-image-32fea6.s3.amazonaws.com
+  github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com
+  wss://alive.github.com; font-src github.githubassets.com; form-action
+  'self' github.com gist.github.com objects-origin.githubusercontent.com;
+  frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com
+  notebooks.githubusercontent.com support.github.com; img-src 'self' data:
+  github.githubassets.com media.githubusercontent.com
+  camo.githubusercontent.com identicons.github.com
+  avatars.githubusercontent.com github-cloud.s3.amazonaws.com
+  objects.githubusercontent.com secured-user-images.githubusercontent.com/
+  user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com opengraph.githubassets.com
+  github-production-user-asset-6210df.s3.amazonaws.com
+  customer-stories-feed.github.com spotlights-feed.github.com
+  objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src
+  'self'; media-src github.com user-images.githubusercontent.com/
+  secured-user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com
+  github-production-user-asset-6210df.s3.amazonaws.com; script-src
+  github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com;
+  upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/
+  gist.github.com/assets-cdn/worker/
+
+  content-length: 0
+
+  x-github-request-id: C0E2:6D28:33F15CD0:3498C371:654E2828
+
+  
+
+  [0 bytes data]
+
+  Connection #0 to host github.com left intact
+
+  Issue another request to this URL:
+  'https://codeload.github.com/MunifTanjim/tree-sitter-lua/tar.gz/refs/tags/v0.0.19'
+
+
+    Trying 172.29.14.144:443...
+
+  Connected to codeload.github.com (172.29.14.144) port 443 (#1)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [324 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [81 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Certificate (11):
+
+  [903 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+
+  [333 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server finished (14):
+
+  [4 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+
+  [70 bytes data]
+
+  TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+
+  ALPN: server did not agree on a protocol.  Uses default.
+
+  Server certificate:
+
+   subject: C=US; ST=USA; L=New York; O=Optimization; OU=Optimization; CN=tomcat
+   start date: Aug 30 08:53:43 2019 GMT
+   expire date: Aug 25 08:53:43 2039 GMT
+
+  SSL: certificate subject name 'tomcat' does not match target host name
+  'codeload.github.com'
+
+  Closing connection 1
+
+  TLSv1.2 (OUT), TLS alert, close notify (256):
+
+  [2 bytes data]
+
+
+
+          --- LOG END ---
+          
+    
+
+
+[10/130] Performing download step (download, verify and extract) for 'treesitter-vimdoc'
+FAILED: build/src/treesitter-vimdoc-stamp/treesitter-vimdoc-download /Users/aome/neovim/.deps/build/src/treesitter-vimdoc-stamp/treesitter-vimdoc-download 
+cd /Users/aome/neovim/.deps/build/src && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-vimdoc-stamp/download-treesitter-vimdoc.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-vimdoc-stamp/verify-treesitter-vimdoc.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-vimdoc-stamp/extract-treesitter-vimdoc.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E touch /Users/aome/neovim/.deps/build/src/treesitter-vimdoc-stamp/treesitter-vimdoc-download
+-- verifying file...
+       file='/Users/aome/neovim/.deps/build/downloads/treesitter-vimdoc/v2.0.1.tar.gz'
+-- SHA256 hash of
+    /Users/aome/neovim/.deps/build/downloads/treesitter-vimdoc/v2.0.1.tar.gz
+  does not match expected value
+    expected: '61e165df29778dc0c9277c2a7bc67447cc4e1bed36ca916a2f476dd25ce3260e'
+      actual: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+-- File already exists but hash mismatch. Removing...
+-- Downloading...
+   dst='/Users/aome/neovim/.deps/build/downloads/treesitter-vimdoc/v2.0.1.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/neovim/tree-sitter-vimdoc/archive/v2.0.1.tar.gz'
+CMake Error at treesitter-vimdoc-stamp/download-treesitter-vimdoc.cmake:170 (message):
+  Each download failed!
+
+    error: downloading 'https://github.com/neovim/tree-sitter-vimdoc/archive/v2.0.1.tar.gz' failed
+          status_code: 60
+          status_string: "SSL peer certificate or SSH remote key was not OK"
+          log:
+          --- LOG BEGIN ---
+            Trying 140.82.121.3:443...
+
+  Connected to github.com (140.82.121.3) port 443 (#0)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [315 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [122 bytes data]
+
+  (304) (IN), TLS handshake, Unknown (8):
+
+  [19 bytes data]
+
+  (304) (IN), TLS handshake, Certificate (11):
+
+  [2459 bytes data]
+
+  (304) (IN), TLS handshake, CERT verify (15):
+
+  [78 bytes data]
+
+  (304) (IN), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  (304) (OUT), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256
+
+  ALPN: server accepted h2
+
+  Server certificate:
+
+   subject: C=US; ST=California; L=San Francisco; O=GitHub, Inc.; CN=github.com
+   start date: Feb 14 00:00:00 2023 GMT
+   expire date: Mar 14 23:59:59 2024 GMT
+   subjectAltName: host "github.com" matched cert's "github.com"
+   issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   SSL certificate verify ok.
+
+  using HTTP/2
+
+  h2 [:method: GET]
+
+  h2 [:scheme: https]
+
+  h2 [:authority: github.com]
+
+  h2 [:path: /neovim/tree-sitter-vimdoc/archive/v2.0.1.tar.gz]
+
+  h2 [user-agent: curl/7.87.0]
+
+  h2 [accept: */*]
+
+  Using Stream ID: 1 (easy handle 0x14680c200)
+
+  GET /neovim/tree-sitter-vimdoc/archive/v2.0.1.tar.gz HTTP/2
+
+  Host: github.com
+
+  User-Agent: curl/7.87.0
+
+  Accept: */*
+
+  
+
+  HTTP/2 302 
+
+  server: GitHub.com
+
+  date: Fri, 10 Nov 2023 12:54:04 GMT
+
+  content-type: text/html; charset=utf-8
+
+  vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding,
+  Accept, X-Requested-With
+
+  location:
+  https://codeload.github.com/neovim/tree-sitter-vimdoc/tar.gz/refs/tags/v2.0.1
+
+
+  cache-control: max-age=0, private
+
+  strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+  x-frame-options: deny
+
+  x-content-type-options: nosniff
+
+  x-xss-protection: 0
+
+  referrer-policy: no-referrer-when-downgrade
+
+  content-security-policy: default-src 'none'; base-uri 'self'; child-src
+  github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/;
+  connect-src 'self' uploads.github.com www.githubstatus.com
+  collector.github.com raw.githubusercontent.com api.githubcopilot.com
+  api.github.com github-cloud.s3.amazonaws.com
+  github-production-repository-file-5c1aeb.s3.amazonaws.com
+  github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com
+  logx.optimizely.com/v1/events objects-origin.githubusercontent.com
+  *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/
+  productionresultssa1.blob.core.windows.net/
+  productionresultssa2.blob.core.windows.net/
+  productionresultssa3.blob.core.windows.net/
+  productionresultssa4.blob.core.windows.net/
+  productionresultssa5.blob.core.windows.net/
+  productionresultssa6.blob.core.windows.net/
+  productionresultssa7.blob.core.windows.net/
+  productionresultssa8.blob.core.windows.net/
+  productionresultssa9.blob.core.windows.net/
+  staffwus201resultssa0.blob.core.windows.net/
+  staffwus201resultssa1.blob.core.windows.net/
+  prodweu01resultssa0.blob.core.windows.net/
+  prodweu01resultssa1.blob.core.windows.net/
+  prodweu01resultssa2.blob.core.windows.net/
+  prodweu01resultssa3.blob.core.windows.net/
+  wss://*.actions.githubusercontent.com
+  github-production-repository-image-32fea6.s3.amazonaws.com
+  github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com
+  wss://alive.github.com; font-src github.githubassets.com; form-action
+  'self' github.com gist.github.com objects-origin.githubusercontent.com;
+  frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com
+  notebooks.githubusercontent.com support.github.com; img-src 'self' data:
+  github.githubassets.com media.githubusercontent.com
+  camo.githubusercontent.com identicons.github.com
+  avatars.githubusercontent.com github-cloud.s3.amazonaws.com
+  objects.githubusercontent.com secured-user-images.githubusercontent.com/
+  user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com opengraph.githubassets.com
+  github-production-user-asset-6210df.s3.amazonaws.com
+  customer-stories-feed.github.com spotlights-feed.github.com
+  objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src
+  'self'; media-src github.com user-images.githubusercontent.com/
+  secured-user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com
+  github-production-user-asset-6210df.s3.amazonaws.com; script-src
+  github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com;
+  upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/
+  gist.github.com/assets-cdn/worker/
+
+  content-length: 0
+
+  x-github-request-id: C0DA:291E:2E9EC9E8:2F422983:654E2828
+
+  
+
+  [0 bytes data]
+
+  Connection #0 to host github.com left intact
+
+  Issue another request to this URL:
+  'https://codeload.github.com/neovim/tree-sitter-vimdoc/tar.gz/refs/tags/v2.0.1'
+
+
+    Trying 172.29.14.144:443...
+
+  Connected to codeload.github.com (172.29.14.144) port 443 (#1)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [324 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [81 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Certificate (11):
+
+  [903 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+
+  [333 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server finished (14):
+
+  [4 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+
+  [70 bytes data]
+
+  TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+
+  ALPN: server did not agree on a protocol.  Uses default.
+
+  Server certificate:
+
+   subject: C=US; ST=USA; L=New York; O=Optimization; OU=Optimization; CN=tomcat
+   start date: Aug 30 08:53:43 2019 GMT
+   expire date: Aug 25 08:53:43 2039 GMT
+
+  SSL: certificate subject name 'tomcat' does not match target host name
+  'codeload.github.com'
+
+  Closing connection 1
+
+  TLSv1.2 (OUT), TLS alert, close notify (256):
+
+  [2 bytes data]
+
+
+
+          --- LOG END ---
+          
+    
+
+
+[11/130] Performing download step (download, verify and extract) for 'treesitter-vim'
+FAILED: build/src/treesitter-vim-stamp/treesitter-vim-download /Users/aome/neovim/.deps/build/src/treesitter-vim-stamp/treesitter-vim-download 
+cd /Users/aome/neovim/.deps/build/src && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-vim-stamp/download-treesitter-vim.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-vim-stamp/verify-treesitter-vim.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-vim-stamp/extract-treesitter-vim.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E touch /Users/aome/neovim/.deps/build/src/treesitter-vim-stamp/treesitter-vim-download
+-- verifying file...
+       file='/Users/aome/neovim/.deps/build/downloads/treesitter-vim/v0.3.0.tar.gz'
+-- SHA256 hash of
+    /Users/aome/neovim/.deps/build/downloads/treesitter-vim/v0.3.0.tar.gz
+  does not match expected value
+    expected: '403acec3efb7cdb18ff3d68640fc823502a4ffcdfbb71cec3f98aa786c21cbe2'
+      actual: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+-- File already exists but hash mismatch. Removing...
+-- Downloading...
+   dst='/Users/aome/neovim/.deps/build/downloads/treesitter-vim/v0.3.0.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/neovim/tree-sitter-vim/archive/v0.3.0.tar.gz'
+CMake Error at treesitter-vim-stamp/download-treesitter-vim.cmake:170 (message):
+  Each download failed!
+
+    error: downloading 'https://github.com/neovim/tree-sitter-vim/archive/v0.3.0.tar.gz' failed
+          status_code: 60
+          status_string: "SSL peer certificate or SSH remote key was not OK"
+          log:
+          --- LOG BEGIN ---
+            Trying 140.82.121.3:443...
+
+  Connected to github.com (140.82.121.3) port 443 (#0)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [315 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [122 bytes data]
+
+  (304) (IN), TLS handshake, Unknown (8):
+
+  [19 bytes data]
+
+  (304) (IN), TLS handshake, Certificate (11):
+
+  [2459 bytes data]
+
+  (304) (IN), TLS handshake, CERT verify (15):
+
+  [80 bytes data]
+
+  (304) (IN), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  (304) (OUT), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256
+
+  ALPN: server accepted h2
+
+  Server certificate:
+
+   subject: C=US; ST=California; L=San Francisco; O=GitHub, Inc.; CN=github.com
+   start date: Feb 14 00:00:00 2023 GMT
+   expire date: Mar 14 23:59:59 2024 GMT
+   subjectAltName: host "github.com" matched cert's "github.com"
+   issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   SSL certificate verify ok.
+
+  using HTTP/2
+
+  h2 [:method: GET]
+
+  h2 [:scheme: https]
+
+  h2 [:authority: github.com]
+
+  h2 [:path: /neovim/tree-sitter-vim/archive/v0.3.0.tar.gz]
+
+  h2 [user-agent: curl/7.87.0]
+
+  h2 [accept: */*]
+
+  Using Stream ID: 1 (easy handle 0x154810000)
+
+  GET /neovim/tree-sitter-vim/archive/v0.3.0.tar.gz HTTP/2
+
+  Host: github.com
+
+  User-Agent: curl/7.87.0
+
+  Accept: */*
+
+  
+
+  HTTP/2 302 
+
+  server: GitHub.com
+
+  date: Fri, 10 Nov 2023 12:55:04 GMT
+
+  content-type: text/html; charset=utf-8
+
+  vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding,
+  Accept, X-Requested-With
+
+  location:
+  https://codeload.github.com/neovim/tree-sitter-vim/tar.gz/refs/tags/v0.3.0
+
+
+  cache-control: max-age=0, private
+
+  strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+  x-frame-options: deny
+
+  x-content-type-options: nosniff
+
+  x-xss-protection: 0
+
+  referrer-policy: no-referrer-when-downgrade
+
+  content-security-policy: default-src 'none'; base-uri 'self'; child-src
+  github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/;
+  connect-src 'self' uploads.github.com www.githubstatus.com
+  collector.github.com raw.githubusercontent.com api.githubcopilot.com
+  api.github.com github-cloud.s3.amazonaws.com
+  github-production-repository-file-5c1aeb.s3.amazonaws.com
+  github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com
+  logx.optimizely.com/v1/events objects-origin.githubusercontent.com
+  *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/
+  productionresultssa1.blob.core.windows.net/
+  productionresultssa2.blob.core.windows.net/
+  productionresultssa3.blob.core.windows.net/
+  productionresultssa4.blob.core.windows.net/
+  productionresultssa5.blob.core.windows.net/
+  productionresultssa6.blob.core.windows.net/
+  productionresultssa7.blob.core.windows.net/
+  productionresultssa8.blob.core.windows.net/
+  productionresultssa9.blob.core.windows.net/
+  staffwus201resultssa0.blob.core.windows.net/
+  staffwus201resultssa1.blob.core.windows.net/
+  prodweu01resultssa0.blob.core.windows.net/
+  prodweu01resultssa1.blob.core.windows.net/
+  prodweu01resultssa2.blob.core.windows.net/
+  prodweu01resultssa3.blob.core.windows.net/
+  wss://*.actions.githubusercontent.com
+  github-production-repository-image-32fea6.s3.amazonaws.com
+  github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com
+  wss://alive.github.com; font-src github.githubassets.com; form-action
+  'self' github.com gist.github.com objects-origin.githubusercontent.com;
+  frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com
+  notebooks.githubusercontent.com support.github.com; img-src 'self' data:
+  github.githubassets.com media.githubusercontent.com
+  camo.githubusercontent.com identicons.github.com
+  avatars.githubusercontent.com github-cloud.s3.amazonaws.com
+  objects.githubusercontent.com secured-user-images.githubusercontent.com/
+  user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com opengraph.githubassets.com
+  github-production-user-asset-6210df.s3.amazonaws.com
+  customer-stories-feed.github.com spotlights-feed.github.com
+  objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src
+  'self'; media-src github.com user-images.githubusercontent.com/
+  secured-user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com
+  github-production-user-asset-6210df.s3.amazonaws.com; script-src
+  github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com;
+  upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/
+  gist.github.com/assets-cdn/worker/
+
+  content-length: 0
+
+  x-github-request-id: C0DD:291E:2E9EC9E0:2F42297D:654E2828
+
+  
+
+  [0 bytes data]
+
+  Connection #0 to host github.com left intact
+
+  Issue another request to this URL:
+  'https://codeload.github.com/neovim/tree-sitter-vim/tar.gz/refs/tags/v0.3.0'
+
+
+    Trying 172.29.14.144:443...
+
+  Connected to codeload.github.com (172.29.14.144) port 443 (#1)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [324 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [81 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Certificate (11):
+
+  [903 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+
+  [333 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server finished (14):
+
+  [4 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+
+  [70 bytes data]
+
+  TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+
+  ALPN: server did not agree on a protocol.  Uses default.
+
+  Server certificate:
+
+   subject: C=US; ST=USA; L=New York; O=Optimization; OU=Optimization; CN=tomcat
+   start date: Aug 30 08:53:43 2019 GMT
+   expire date: Aug 25 08:53:43 2039 GMT
+
+  SSL: certificate subject name 'tomcat' does not match target host name
+  'codeload.github.com'
+
+  Closing connection 1
+
+  TLSv1.2 (OUT), TLS alert, close notify (256):
+
+  [2 bytes data]
+
+
+
+          --- LOG END ---
+          
+    
+
+
+[12/130] Performing download step (download, verify and extract) for 'treesitter-c'
+FAILED: build/src/treesitter-c-stamp/treesitter-c-download /Users/aome/neovim/.deps/build/src/treesitter-c-stamp/treesitter-c-download 
+cd /Users/aome/neovim/.deps/build/src && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-c-stamp/download-treesitter-c.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-c-stamp/verify-treesitter-c.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-c-stamp/extract-treesitter-c.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E touch /Users/aome/neovim/.deps/build/src/treesitter-c-stamp/treesitter-c-download
+-- verifying file...
+       file='/Users/aome/neovim/.deps/build/downloads/treesitter-c/v0.20.6.tar.gz'
+-- SHA256 hash of
+    /Users/aome/neovim/.deps/build/downloads/treesitter-c/v0.20.6.tar.gz
+  does not match expected value
+    expected: '44989072e1a9cd3d8f16e9cc3e726af50de6d3017f1231bdf3303b8cc007424e'
+      actual: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+-- File already exists but hash mismatch. Removing...
+-- Downloading...
+   dst='/Users/aome/neovim/.deps/build/downloads/treesitter-c/v0.20.6.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/tree-sitter/tree-sitter-c/archive/v0.20.6.tar.gz'
+CMake Error at treesitter-c-stamp/download-treesitter-c.cmake:170 (message):
+  Each download failed!
+
+    error: downloading 'https://github.com/tree-sitter/tree-sitter-c/archive/v0.20.6.tar.gz' failed
+          status_code: 60
+          status_string: "SSL peer certificate or SSH remote key was not OK"
+          log:
+          --- LOG BEGIN ---
+            Trying 140.82.121.3:443...
+
+  Connected to github.com (140.82.121.3) port 443 (#0)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [315 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [122 bytes data]
+
+  (304) (IN), TLS handshake, Unknown (8):
+
+  [19 bytes data]
+
+  (304) (IN), TLS handshake, Certificate (11):
+
+  [2459 bytes data]
+
+  (304) (IN), TLS handshake, CERT verify (15):
+
+  [79 bytes data]
+
+  (304) (IN), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  (304) (OUT), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256
+
+  ALPN: server accepted h2
+
+  Server certificate:
+
+   subject: C=US; ST=California; L=San Francisco; O=GitHub, Inc.; CN=github.com
+   start date: Feb 14 00:00:00 2023 GMT
+   expire date: Mar 14 23:59:59 2024 GMT
+   subjectAltName: host "github.com" matched cert's "github.com"
+   issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   SSL certificate verify ok.
+
+  using HTTP/2
+
+  h2 [:method: GET]
+
+  h2 [:scheme: https]
+
+  h2 [:authority: github.com]
+
+  h2 [:path: /tree-sitter/tree-sitter-c/archive/v0.20.6.tar.gz]
+
+  h2 [user-agent: curl/7.87.0]
+
+  h2 [accept: */*]
+
+  Using Stream ID: 1 (easy handle 0x133008a00)
+
+  GET /tree-sitter/tree-sitter-c/archive/v0.20.6.tar.gz HTTP/2
+
+  Host: github.com
+
+  User-Agent: curl/7.87.0
+
+  Accept: */*
+
+  
+
+  HTTP/2 302 
+
+  server: GitHub.com
+
+  date: Fri, 10 Nov 2023 12:55:04 GMT
+
+  content-type: text/html; charset=utf-8
+
+  vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding,
+  Accept, X-Requested-With
+
+  location:
+  https://codeload.github.com/tree-sitter/tree-sitter-c/tar.gz/refs/tags/v0.20.6
+
+
+  cache-control: max-age=0, private
+
+  strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+  x-frame-options: deny
+
+  x-content-type-options: nosniff
+
+  x-xss-protection: 0
+
+  referrer-policy: no-referrer-when-downgrade
+
+  content-security-policy: default-src 'none'; base-uri 'self'; child-src
+  github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/;
+  connect-src 'self' uploads.github.com www.githubstatus.com
+  collector.github.com raw.githubusercontent.com api.githubcopilot.com
+  api.github.com github-cloud.s3.amazonaws.com
+  github-production-repository-file-5c1aeb.s3.amazonaws.com
+  github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com
+  logx.optimizely.com/v1/events objects-origin.githubusercontent.com
+  *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/
+  productionresultssa1.blob.core.windows.net/
+  productionresultssa2.blob.core.windows.net/
+  productionresultssa3.blob.core.windows.net/
+  productionresultssa4.blob.core.windows.net/
+  productionresultssa5.blob.core.windows.net/
+  productionresultssa6.blob.core.windows.net/
+  productionresultssa7.blob.core.windows.net/
+  productionresultssa8.blob.core.windows.net/
+  productionresultssa9.blob.core.windows.net/
+  staffwus201resultssa0.blob.core.windows.net/
+  staffwus201resultssa1.blob.core.windows.net/
+  prodweu01resultssa0.blob.core.windows.net/
+  prodweu01resultssa1.blob.core.windows.net/
+  prodweu01resultssa2.blob.core.windows.net/
+  prodweu01resultssa3.blob.core.windows.net/
+  wss://*.actions.githubusercontent.com
+  github-production-repository-image-32fea6.s3.amazonaws.com
+  github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com
+  wss://alive.github.com; font-src github.githubassets.com; form-action
+  'self' github.com gist.github.com objects-origin.githubusercontent.com;
+  frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com
+  notebooks.githubusercontent.com support.github.com; img-src 'self' data:
+  github.githubassets.com media.githubusercontent.com
+  camo.githubusercontent.com identicons.github.com
+  avatars.githubusercontent.com github-cloud.s3.amazonaws.com
+  objects.githubusercontent.com secured-user-images.githubusercontent.com/
+  user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com opengraph.githubassets.com
+  github-production-user-asset-6210df.s3.amazonaws.com
+  customer-stories-feed.github.com spotlights-feed.github.com
+  objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src
+  'self'; media-src github.com user-images.githubusercontent.com/
+  secured-user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com
+  github-production-user-asset-6210df.s3.amazonaws.com; script-src
+  github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com;
+  upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/
+  gist.github.com/assets-cdn/worker/
+
+  content-length: 0
+
+  x-github-request-id: C0DE:9B59:2DEF84FD:2E912E30:654E2828
+
+  
+
+  [0 bytes data]
+
+  Connection #0 to host github.com left intact
+
+  Issue another request to this URL:
+  'https://codeload.github.com/tree-sitter/tree-sitter-c/tar.gz/refs/tags/v0.20.6'
+
+
+    Trying 172.29.14.144:443...
+
+  Connected to codeload.github.com (172.29.14.144) port 443 (#1)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [324 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [81 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Certificate (11):
+
+  [903 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+
+  [333 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server finished (14):
+
+  [4 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+
+  [70 bytes data]
+
+  TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+
+  ALPN: server did not agree on a protocol.  Uses default.
+
+  Server certificate:
+
+   subject: C=US; ST=USA; L=New York; O=Optimization; OU=Optimization; CN=tomcat
+   start date: Aug 30 08:53:43 2019 GMT
+   expire date: Aug 25 08:53:43 2039 GMT
+
+  SSL: certificate subject name 'tomcat' does not match target host name
+  'codeload.github.com'
+
+  Closing connection 1
+
+  TLSv1.2 (OUT), TLS alert, close notify (256):
+
+  [2 bytes data]
+
+
+
+          --- LOG END ---
+          
+    
+
+
+[13/130] Performing download step (download, verify and extract) for 'treesitter-query'
+FAILED: build/src/treesitter-query-stamp/treesitter-query-download /Users/aome/neovim/.deps/build/src/treesitter-query-stamp/treesitter-query-download 
+cd /Users/aome/neovim/.deps/build/src && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-query-stamp/download-treesitter-query.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-query-stamp/verify-treesitter-query.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/treesitter-query-stamp/extract-treesitter-query.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E touch /Users/aome/neovim/.deps/build/src/treesitter-query-stamp/treesitter-query-download
+-- Downloading...
+   dst='/Users/aome/neovim/.deps/build/downloads/treesitter-query/v0.1.0.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/nvim-treesitter/tree-sitter-query/archive/v0.1.0.tar.gz'
+CMake Error at treesitter-query-stamp/download-treesitter-query.cmake:170 (message):
+  Each download failed!
+
+    error: downloading 'https://github.com/nvim-treesitter/tree-sitter-query/archive/v0.1.0.tar.gz' failed
+          status_code: 60
+          status_string: "SSL peer certificate or SSH remote key was not OK"
+          log:
+          --- LOG BEGIN ---
+            Trying 140.82.121.3:443...
+
+  Connected to github.com (140.82.121.3) port 443 (#0)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [315 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [122 bytes data]
+
+  (304) (IN), TLS handshake, Unknown (8):
+
+  [19 bytes data]
+
+  (304) (IN), TLS handshake, Certificate (11):
+
+  [2459 bytes data]
+
+  (304) (IN), TLS handshake, CERT verify (15):
+
+  [79 bytes data]
+
+  (304) (IN), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  (304) (OUT), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256
+
+  ALPN: server accepted h2
+
+  Server certificate:
+
+   subject: C=US; ST=California; L=San Francisco; O=GitHub, Inc.; CN=github.com
+   start date: Feb 14 00:00:00 2023 GMT
+   expire date: Mar 14 23:59:59 2024 GMT
+   subjectAltName: host "github.com" matched cert's "github.com"
+   issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   SSL certificate verify ok.
+
+  using HTTP/2
+
+  h2 [:method: GET]
+
+  h2 [:scheme: https]
+
+  h2 [:authority: github.com]
+
+  h2 [:path: /nvim-treesitter/tree-sitter-query/archive/v0.1.0.tar.gz]
+
+  h2 [user-agent: curl/7.87.0]
+
+  h2 [accept: */*]
+
+  Using Stream ID: 1 (easy handle 0x15a825000)
+
+  GET /nvim-treesitter/tree-sitter-query/archive/v0.1.0.tar.gz HTTP/2
+
+  Host: github.com
+
+  User-Agent: curl/7.87.0
+
+  Accept: */*
+
+  
+
+  HTTP/2 302 
+
+  server: GitHub.com
+
+  date: Fri, 10 Nov 2023 12:55:04 GMT
+
+  content-type: text/html; charset=utf-8
+
+  vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding,
+  Accept, X-Requested-With
+
+  location:
+  https://codeload.github.com/nvim-treesitter/tree-sitter-query/tar.gz/refs/tags/v0.1.0
+
+
+  cache-control: max-age=0, private
+
+  strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+  x-frame-options: deny
+
+  x-content-type-options: nosniff
+
+  x-xss-protection: 0
+
+  referrer-policy: no-referrer-when-downgrade
+
+  content-security-policy: default-src 'none'; base-uri 'self'; child-src
+  github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/;
+  connect-src 'self' uploads.github.com www.githubstatus.com
+  collector.github.com raw.githubusercontent.com api.githubcopilot.com
+  api.github.com github-cloud.s3.amazonaws.com
+  github-production-repository-file-5c1aeb.s3.amazonaws.com
+  github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com
+  logx.optimizely.com/v1/events objects-origin.githubusercontent.com
+  *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/
+  productionresultssa1.blob.core.windows.net/
+  productionresultssa2.blob.core.windows.net/
+  productionresultssa3.blob.core.windows.net/
+  productionresultssa4.blob.core.windows.net/
+  productionresultssa5.blob.core.windows.net/
+  productionresultssa6.blob.core.windows.net/
+  productionresultssa7.blob.core.windows.net/
+  productionresultssa8.blob.core.windows.net/
+  productionresultssa9.blob.core.windows.net/
+  staffwus201resultssa0.blob.core.windows.net/
+  staffwus201resultssa1.blob.core.windows.net/
+  prodweu01resultssa0.blob.core.windows.net/
+  prodweu01resultssa1.blob.core.windows.net/
+  prodweu01resultssa2.blob.core.windows.net/
+  prodweu01resultssa3.blob.core.windows.net/
+  wss://*.actions.githubusercontent.com
+  github-production-repository-image-32fea6.s3.amazonaws.com
+  github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com
+  wss://alive.github.com; font-src github.githubassets.com; form-action
+  'self' github.com gist.github.com objects-origin.githubusercontent.com;
+  frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com
+  notebooks.githubusercontent.com support.github.com; img-src 'self' data:
+  github.githubassets.com media.githubusercontent.com
+  camo.githubusercontent.com identicons.github.com
+  avatars.githubusercontent.com github-cloud.s3.amazonaws.com
+  objects.githubusercontent.com secured-user-images.githubusercontent.com/
+  user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com opengraph.githubassets.com
+  github-production-user-asset-6210df.s3.amazonaws.com
+  customer-stories-feed.github.com spotlights-feed.github.com
+  objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src
+  'self'; media-src github.com user-images.githubusercontent.com/
+  secured-user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com
+  github-production-user-asset-6210df.s3.amazonaws.com; script-src
+  github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com;
+  upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/
+  gist.github.com/assets-cdn/worker/
+
+  content-length: 0
+
+  x-github-request-id: C0E3:6D28:33F15E3E:3498C4E3:654E2828
+
+  
+
+  [0 bytes data]
+
+  Connection #0 to host github.com left intact
+
+  Issue another request to this URL:
+  'https://codeload.github.com/nvim-treesitter/tree-sitter-query/tar.gz/refs/tags/v0.1.0'
+
+
+    Trying 172.29.14.144:443...
+
+  Connected to codeload.github.com (172.29.14.144) port 443 (#1)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [324 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [81 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Certificate (11):
+
+  [903 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+
+  [333 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server finished (14):
+
+  [4 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+
+  [70 bytes data]
+
+  TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+
+  ALPN: server did not agree on a protocol.  Uses default.
+
+  Server certificate:
+
+   subject: C=US; ST=USA; L=New York; O=Optimization; OU=Optimization; CN=tomcat
+   start date: Aug 30 08:53:43 2019 GMT
+   expire date: Aug 25 08:53:43 2039 GMT
+
+  SSL: certificate subject name 'tomcat' does not match target host name
+  'codeload.github.com'
+
+  Closing connection 1
+
+  TLSv1.2 (OUT), TLS alert, close notify (256):
+
+  [2 bytes data]
+
+
+
+          --- LOG END ---
+          
+    
+
+
+[14/130] Performing download step (download, verify and extract) for 'lua-compat-5.3'
+FAILED: build/src/lua-compat-5.3-stamp/lua-compat-5.3-download /Users/aome/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-download 
+cd /Users/aome/neovim/.deps/build/src && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/lua-compat-5.3-stamp/download-lua-compat-5.3.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/lua-compat-5.3-stamp/verify-lua-compat-5.3.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -P /Users/aome/neovim/.deps/build/src/lua-compat-5.3-stamp/extract-lua-compat-5.3.cmake && /opt/homebrew/Cellar/cmake/3.27.7/bin/cmake -E touch /Users/aome/neovim/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-download
+-- verifying file...
+       file='/Users/aome/neovim/.deps/build/downloads/lua-compat-5.3/v0.9.tar.gz'
+-- SHA256 hash of
+    /Users/aome/neovim/.deps/build/downloads/lua-compat-5.3/v0.9.tar.gz
+  does not match expected value
+    expected: 'ad05540d2d96a48725bb79a1def35cf6652a4e2ec26376e2617c8ce2baa6f416'
+      actual: 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+-- File already exists but hash mismatch. Removing...
+-- Downloading...
+   dst='/Users/aome/neovim/.deps/build/downloads/lua-compat-5.3/v0.9.tar.gz'
+   timeout='none'
+   inactivity timeout='none'
+-- Using src='https://github.com/keplerproject/lua-compat-5.3/archive/v0.9.tar.gz'
+CMake Error at lua-compat-5.3-stamp/download-lua-compat-5.3.cmake:170 (message):
+  Each download failed!
+
+    error: downloading 'https://github.com/keplerproject/lua-compat-5.3/archive/v0.9.tar.gz' failed
+          status_code: 60
+          status_string: "SSL peer certificate or SSH remote key was not OK"
+          log:
+          --- LOG BEGIN ---
+            Trying 140.82.121.3:443...
+
+  Connected to github.com (140.82.121.3) port 443 (#0)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [315 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [122 bytes data]
+
+  (304) (IN), TLS handshake, Unknown (8):
+
+  [19 bytes data]
+
+  (304) (IN), TLS handshake, Certificate (11):
+
+  [2459 bytes data]
+
+  (304) (IN), TLS handshake, CERT verify (15):
+
+  [79 bytes data]
+
+  (304) (IN), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  (304) (OUT), TLS handshake, Finished (20):
+
+  [36 bytes data]
+
+  SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256
+
+  ALPN: server accepted h2
+
+  Server certificate:
+
+   subject: C=US; ST=California; L=San Francisco; O=GitHub, Inc.; CN=github.com
+   start date: Feb 14 00:00:00 2023 GMT
+   expire date: Mar 14 23:59:59 2024 GMT
+   subjectAltName: host "github.com" matched cert's "github.com"
+   issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1
+   SSL certificate verify ok.
+
+  using HTTP/2
+
+  h2 [:method: GET]
+
+  h2 [:scheme: https]
+
+  h2 [:authority: github.com]
+
+  h2 [:path: /keplerproject/lua-compat-5.3/archive/v0.9.tar.gz]
+
+  h2 [user-agent: curl/7.87.0]
+
+  h2 [accept: */*]
+
+  Using Stream ID: 1 (easy handle 0x140825000)
+
+  GET /keplerproject/lua-compat-5.3/archive/v0.9.tar.gz HTTP/2
+
+  Host: github.com
+
+  User-Agent: curl/7.87.0
+
+  Accept: */*
+
+  
+
+  HTTP/2 301 
+
+  server: GitHub.com
+
+  date: Fri, 10 Nov 2023 12:55:04 GMT
+
+  content-type: text/html; charset=utf-8
+
+  vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding,
+  Accept, X-Requested-With
+
+  location:
+  https://github.com/lunarmodules/lua-compat-5.3/archive/v0.9.tar.gz
+
+  cache-control: no-cache
+
+  strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+  x-frame-options: deny
+
+  x-content-type-options: nosniff
+
+  x-xss-protection: 0
+
+  referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+
+  content-security-policy: default-src 'none'; base-uri 'self'; child-src
+  github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/;
+  connect-src 'self' uploads.github.com www.githubstatus.com
+  collector.github.com raw.githubusercontent.com api.githubcopilot.com
+  api.github.com github-cloud.s3.amazonaws.com
+  github-production-repository-file-5c1aeb.s3.amazonaws.com
+  github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com
+  logx.optimizely.com/v1/events objects-origin.githubusercontent.com
+  *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/
+  productionresultssa1.blob.core.windows.net/
+  productionresultssa2.blob.core.windows.net/
+  productionresultssa3.blob.core.windows.net/
+  productionresultssa4.blob.core.windows.net/
+  productionresultssa5.blob.core.windows.net/
+  productionresultssa6.blob.core.windows.net/
+  productionresultssa7.blob.core.windows.net/
+  productionresultssa8.blob.core.windows.net/
+  productionresultssa9.blob.core.windows.net/
+  staffwus201resultssa0.blob.core.windows.net/
+  staffwus201resultssa1.blob.core.windows.net/
+  prodweu01resultssa0.blob.core.windows.net/
+  prodweu01resultssa1.blob.core.windows.net/
+  prodweu01resultssa2.blob.core.windows.net/
+  prodweu01resultssa3.blob.core.windows.net/
+  wss://*.actions.githubusercontent.com
+  github-production-repository-image-32fea6.s3.amazonaws.com
+  github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com
+  wss://alive.github.com; font-src github.githubassets.com; form-action
+  'self' github.com gist.github.com objects-origin.githubusercontent.com;
+  frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com
+  notebooks.githubusercontent.com support.github.com; img-src 'self' data:
+  github.githubassets.com media.githubusercontent.com
+  camo.githubusercontent.com identicons.github.com
+  avatars.githubusercontent.com github-cloud.s3.amazonaws.com
+  objects.githubusercontent.com secured-user-images.githubusercontent.com/
+  user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com opengraph.githubassets.com
+  github-production-user-asset-6210df.s3.amazonaws.com
+  customer-stories-feed.github.com spotlights-feed.github.com
+  objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src
+  'self'; media-src github.com user-images.githubusercontent.com/
+  secured-user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com
+  github-production-user-asset-6210df.s3.amazonaws.com; script-src
+  github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com;
+  upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/
+  gist.github.com/assets-cdn/worker/
+
+  content-length: 0
+
+  x-github-request-id: C0DB:D00D:322BD31E:32CD8DD8:654E2828
+
+  
+
+  [0 bytes data]
+
+  Connection #0 to host github.com left intact
+
+  Issue another request to this URL:
+  'https://github.com/lunarmodules/lua-compat-5.3/archive/v0.9.tar.gz'
+
+  Found bundle for host: 0x6000003de3d0 [can multiplex]
+
+  Re-using existing connection #0 with host github.com
+
+  h2 [:method: GET]
+
+  h2 [:scheme: https]
+
+  h2 [:authority: github.com]
+
+  h2 [:path: /lunarmodules/lua-compat-5.3/archive/v0.9.tar.gz]
+
+  h2 [user-agent: curl/7.87.0]
+
+  h2 [accept: */*]
+
+  Using Stream ID: 3 (easy handle 0x140825000)
+
+  GET /lunarmodules/lua-compat-5.3/archive/v0.9.tar.gz HTTP/2
+
+  Host: github.com
+
+  User-Agent: curl/7.87.0
+
+  Accept: */*
+
+  
+
+  HTTP/2 302 
+
+  server: GitHub.com
+
+  date: Fri, 10 Nov 2023 12:55:04 GMT
+
+  content-type: text/html; charset=utf-8
+
+  vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding,
+  Accept, X-Requested-With
+
+  location:
+  https://codeload.github.com/lunarmodules/lua-compat-5.3/tar.gz/refs/tags/v0.9
+
+
+  cache-control: max-age=0, private
+
+  strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+  x-frame-options: deny
+
+  x-content-type-options: nosniff
+
+  x-xss-protection: 0
+
+  referrer-policy: no-referrer-when-downgrade
+
+  content-security-policy: default-src 'none'; base-uri 'self'; child-src
+  github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/;
+  connect-src 'self' uploads.github.com www.githubstatus.com
+  collector.github.com raw.githubusercontent.com api.githubcopilot.com
+  api.github.com github-cloud.s3.amazonaws.com
+  github-production-repository-file-5c1aeb.s3.amazonaws.com
+  github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com
+  logx.optimizely.com/v1/events objects-origin.githubusercontent.com
+  *.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/
+  productionresultssa1.blob.core.windows.net/
+  productionresultssa2.blob.core.windows.net/
+  productionresultssa3.blob.core.windows.net/
+  productionresultssa4.blob.core.windows.net/
+  productionresultssa5.blob.core.windows.net/
+  productionresultssa6.blob.core.windows.net/
+  productionresultssa7.blob.core.windows.net/
+  productionresultssa8.blob.core.windows.net/
+  productionresultssa9.blob.core.windows.net/
+  staffwus201resultssa0.blob.core.windows.net/
+  staffwus201resultssa1.blob.core.windows.net/
+  prodweu01resultssa0.blob.core.windows.net/
+  prodweu01resultssa1.blob.core.windows.net/
+  prodweu01resultssa2.blob.core.windows.net/
+  prodweu01resultssa3.blob.core.windows.net/
+  wss://*.actions.githubusercontent.com
+  github-production-repository-image-32fea6.s3.amazonaws.com
+  github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com
+  wss://alive.github.com; font-src github.githubassets.com; form-action
+  'self' github.com gist.github.com objects-origin.githubusercontent.com;
+  frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com
+  notebooks.githubusercontent.com support.github.com; img-src 'self' data:
+  github.githubassets.com media.githubusercontent.com
+  camo.githubusercontent.com identicons.github.com
+  avatars.githubusercontent.com github-cloud.s3.amazonaws.com
+  objects.githubusercontent.com secured-user-images.githubusercontent.com/
+  user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com opengraph.githubassets.com
+  github-production-user-asset-6210df.s3.amazonaws.com
+  customer-stories-feed.github.com spotlights-feed.github.com
+  objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src
+  'self'; media-src github.com user-images.githubusercontent.com/
+  secured-user-images.githubusercontent.com/
+  private-user-images.githubusercontent.com
+  github-production-user-asset-6210df.s3.amazonaws.com; script-src
+  github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com;
+  upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/
+  gist.github.com/assets-cdn/worker/
+
+  content-length: 0
+
+  x-github-request-id: C0DB:D00D:322BD467:32CD8F02:654E2828
+
+  
+
+  [0 bytes data]
+
+  Connection #0 to host github.com left intact
+
+  Issue another request to this URL:
+  'https://codeload.github.com/lunarmodules/lua-compat-5.3/tar.gz/refs/tags/v0.9'
+
+
+    Trying 172.29.14.144:443...
+
+  Connected to codeload.github.com (172.29.14.144) port 443 (#1)
+
+  ALPN: offers h2,http/1.1
+
+  (304) (OUT), TLS handshake, Client hello (1):
+
+  [324 bytes data]
+
+  (304) (IN), TLS handshake, Server hello (2):
+
+  [81 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Certificate (11):
+
+  [903 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+
+  [333 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Server finished (14):
+
+  [4 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+
+  [70 bytes data]
+
+  TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (OUT), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  TLSv1.2 (IN), TLS change cipher, Change cipher spec (1):
+
+  [1 bytes data]
+
+  TLSv1.2 (IN), TLS handshake, Finished (20):
+
+  [16 bytes data]
+
+  SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+
+  ALPN: server did not agree on a protocol.  Uses default.
+
+  Server certificate:
+
+   subject: C=US; ST=USA; L=New York; O=Optimization; OU=Optimization; CN=tomcat
+   start date: Aug 30 08:53:43 2019 GMT
+   expire date: Aug 25 08:53:43 2039 GMT
+
+  SSL: certificate subject name 'tomcat' does not match target host name
+  'codeload.github.com'
+
+  Closing connection 1
+
+  TLSv1.2 (OUT), TLS alert, close notify (256):
+
+  [2 bytes data]
+
+
+
+          --- LOG END ---
+          
+    
+
+
+ninja: build stopped: subcommand failed.
