@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="Commits Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroSuero&theme=catppuccin-mocha" />
-  <img alt="Github Stats" src="https://github-readme-stats-three-red-66.vercel.app/api?username=AlejandroSuero&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en&include_all_commits=true&custom_title=GitHub%20Stats&disable_animations=true" />
+  <img alt="Commits Streak" width="467" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroSuero&theme=catppuccin-mocha" />
+  <img alt="Github Stats" width="467" height="auto" src="https://github-readme-stats-three-red-66.vercel.app/api?username=AlejandroSuero&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en&include_all_commits=true&custom_title=GitHub%20Stats&disable_animations=true" />
 </p>
 
 # THIS IS WHO I AM
