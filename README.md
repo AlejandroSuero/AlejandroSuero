@@ -3,7 +3,10 @@
   <img alt="Github Stats" width="467" height="auto" src="https://github-readme-stats-three-red-66.vercel.app/api?username=AlejandroSuero&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en&include_all_commits=true&custom_title=GitHub%20Stats&disable_animations=true" />
 </p>
 
-# THIS IS WHO I AM
+
+<h1 align="center">hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand gif" width="40"></h1>
+
+## This is who I am
 
 A **young** professional with good attitude and willingness to work in the **web development** sector, to acquire more experience and knowledge.
 
@@ -32,21 +35,34 @@ I like videogames and I am learning how to program them, but this is something m
 Some languages and frameworks I know and I worked with are:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GoLang-2d2d2d?style=flat-square&logo=go" alt="golang" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="nodejs badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/React-007096?style=flat-square&logo=react&logoColor=white" alt="react badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Next.js-1e1e1e?style=flat-square&logo=next.js&logoColor=white" alt="nextjs badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Express.js-1e1e1e?style=flat-square&logo=express" alt="expressjs" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=css3&logoColor=white" alt="html5 badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3 badge" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Astro-1e1e1e?style=flat-square&logo=astro" alt="astro" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/TailwindCSS-1e1e1e?style=flat-square&logo=tailwindcss" alt="tailwindcss" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/C C++-3178C6?style=flat-square&logo=cplusplus" alt="c/c++" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Csharp-a960fe?style=flat-square&logo=csharp" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trpc/trpc-original.svg" title="TRPC" alt="TRPC" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPlusPlus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </p>
   
 My contact info:
@@ -72,3 +88,4 @@ I am learning how to play drums at the moment. I am a bit of a metalhead, but wh
 >
 > Basically in each letter it could be a 1 or a 2, C2 in theory equals to a native speaker
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=AlejandroSuero&style=rounded-square&color=blue" alt="Profile views"></p>
