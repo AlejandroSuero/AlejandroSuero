@@ -1,3 +1,7 @@
+![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroSuero&theme=jolly)
+
+![Github Stats](https://github-readme-stats-three-red-66.vercel.app/api?username=AlejandroSuero&theme=jolly&count_private=true&show_icons=true&border_radius=8&locale=en&include_all_commits=true&custom_title=GitHub%20Stats&disable_animations=true)
+
 # THIS IS WHO I AM
 
 A **young** professional with good attitude and willingness to work in the **web development** sector, to acquire more experience and knowledge.
