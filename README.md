@@ -18,7 +18,7 @@ Some of the projects I worked or I am currently working on are:
 
 - [la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial) improving DX (developer experience), UX (user experience) and UI (user interfaces).
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) adapting some functionality to be cross-platform friendly.
-- [telescope.nvim]() improving UX (user experience) and DX (developer experience), adding and fixing test suites.
+- [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) improving UX (user experience) and DX (developer experience), adding and fixing test suites.
 - [base46.nvim](https://github.com/jayden-chan/base46.nvim) improving the transparency functionality.
 
 ## My interests
