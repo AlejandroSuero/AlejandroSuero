@@ -16,10 +16,13 @@ I like the self-taught aproach, but the academic side is also good. I usually le
 
 Some of the projects I worked or I am currently working on are:
 
-- [la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial) improving DX (developer experience), UX (user experience) and UI (user interfaces).
-- [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) adapting some functionality to be cross-platform friendly.
-- [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) improving UX (user experience) and DX (developer experience), adding and fixing test suites.
-- [base46.nvim](https://github.com/jayden-chan/base46.nvim) improving the transparency functionality.
+- [la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial) - Improving DX, UX and UI.
+- [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - Adapting some functionality to be cross-platform friendly.
+- [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Improving UX and DX, adding and fixing test suites.
+- [base46.nvim](https://github.com/jayden-chan/base46.nvim) - Improving the transparency functionality.
+- [freeze](https://github.com/charmbracelet/freeze) - Improving the cli UX.
+- [freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim) - Porting `freeze` utility to Neovim editor.
+- [supermave-nvim](https://github.com/supermaven-inc/supermaven-nvim) - Porting [Supermaven](https://supermaven.com/), a code copilot AI, to [Neovim](https://neovim.io/), the best code editor btw. Improving DX, UX and UI.
 
 ## My interests
 
