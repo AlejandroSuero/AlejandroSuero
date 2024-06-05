@@ -24,6 +24,13 @@ Some of the projects I worked or I am currently working on are:
 - [freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim) - Porting `freeze` utility to Neovim editor.
 - [supermave-nvim](https://github.com/supermaven-inc/supermaven-nvim) - Porting [Supermaven](https://supermaven.com/), a code copilot AI, to [Neovim](https://neovim.io/), the best code editor btw. Improving DX, UX and UI.
 
+<details>
+  <summary>Recent GitHub activity</summary>
+
+  <!--START_SECTION:activity-->
+
+</details>
+
 ## My interests
 
 I have interests in many areas but I will break it down into 2 main ones. Professional focus ones and personal focus.
