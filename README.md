@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/supermaven-inc/supermaven-nvim/pull/35#issuecomment-2150115231) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-2. 🗣 Commented on [#19](https://github.com/supermaven-inc/supermaven-nvim/issues/19#issuecomment-2149506482) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-3. 🗣 Commented on [#42](https://github.com/supermaven-inc/supermaven-nvim/issues/42#issuecomment-2149448788) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. 🗣 Commented on [#19](https://github.com/supermaven-inc/supermaven-nvim/issues/19#issuecomment-2148697922) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-5. 💪 Opened PR [#46](https://github.com/supermaven-inc/supermaven-nvim/pull/46) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+1. 🎉 Merged PR [#1](https://github.com/AlejandroSuero/git-coventional-commits-cli/pull/1) in [AlejandroSuero/git-coventional-commits-cli](https://github.com/AlejandroSuero/git-coventional-commits-cli)
+2. 🗣 Commented on [#13](https://github.com/AlejandroSuero/freeze-code.nvim/pull/13#issuecomment-2151614501) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
+3. 🗣 Commented on [#35](https://github.com/supermaven-inc/supermaven-nvim/pull/35#issuecomment-2150115231) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. 🗣 Commented on [#19](https://github.com/supermaven-inc/supermaven-nvim/issues/19#issuecomment-2149506482) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+5. 🗣 Commented on [#42](https://github.com/supermaven-inc/supermaven-nvim/issues/42#issuecomment-2149448788) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
 <!--END_SECTION:activity-->
 
 </details>
