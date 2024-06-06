@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/supermaven-inc/supermaven-nvim/issues/19#issuecomment-2149506482) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-2. 🗣 Commented on [#42](https://github.com/supermaven-inc/supermaven-nvim/issues/42#issuecomment-2149448788) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-3. 🗣 Commented on [#19](https://github.com/supermaven-inc/supermaven-nvim/issues/19#issuecomment-2148697922) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. 💪 Opened PR [#46](https://github.com/supermaven-inc/supermaven-nvim/pull/46) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-5. 🗣 Commented on [#35](https://github.com/supermaven-inc/supermaven-nvim/pull/35#issuecomment-2148515528) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+1. 🗣 Commented on [#35](https://github.com/supermaven-inc/supermaven-nvim/pull/35#issuecomment-2150115231) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+2. 🗣 Commented on [#19](https://github.com/supermaven-inc/supermaven-nvim/issues/19#issuecomment-2149506482) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+3. 🗣 Commented on [#42](https://github.com/supermaven-inc/supermaven-nvim/issues/42#issuecomment-2149448788) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. 🗣 Commented on [#19](https://github.com/supermaven-inc/supermaven-nvim/issues/19#issuecomment-2148697922) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+5. 💪 Opened PR [#46](https://github.com/supermaven-inc/supermaven-nvim/pull/46) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
 <!--END_SECTION:activity-->
 
 </details>
