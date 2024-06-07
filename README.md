@@ -22,7 +22,7 @@ Some of the projects I worked or I am currently working on are:
 - [base46.nvim](https://github.com/jayden-chan/base46.nvim) - Improving the transparency functionality.
 - [freeze](https://github.com/charmbracelet/freeze) - Improving the cli UX.
 - [freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim) - Porting `freeze` utility to Neovim editor.
-- [supermave-nvim](https://github.com/supermaven-inc/supermaven-nvim) - Porting [Supermaven](https://supermaven.com/), a code copilot AI, to [Neovim](https://neovim.io/), the best code editor btw. Improving DX, UX and UI.
+- [supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - Porting [Supermaven](https://supermaven.com/), a code copilot AI, to [Neovim](https://neovim.io/), the best code editor btw. Improving DX, UX and UI.
 
 <details>
   <summary>Recent GitHub activity</summary>
