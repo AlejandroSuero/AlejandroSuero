@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/charmbracelet/freeze/issues/105#issuecomment-2154639602) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-2. 🗣 Commented on [#53](https://github.com/supermaven-inc/supermaven-nvim/pull/53#issuecomment-2154582714) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-3. 🗣 Commented on [#50](https://github.com/supermaven-inc/supermaven-nvim/issues/50#issuecomment-2154575933) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. 🗣 Commented on [#48](https://github.com/supermaven-inc/supermaven-nvim/issues/48#issuecomment-2154540379) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-5. 💪 Opened PR [#54](https://github.com/supermaven-inc/supermaven-nvim/pull/54) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+1. 🗣 Commented on [#50](https://github.com/supermaven-inc/supermaven-nvim/issues/50#issuecomment-2155526830) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+2. 🗣 Commented on [#50](https://github.com/supermaven-inc/supermaven-nvim/issues/50#issuecomment-2155517605) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+3. 🗣 Commented on [#48](https://github.com/supermaven-inc/supermaven-nvim/issues/48#issuecomment-2155456792) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. 🗣 Commented on [#48](https://github.com/supermaven-inc/supermaven-nvim/issues/48#issuecomment-2155445171) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+5. 🗣 Commented on [#48](https://github.com/supermaven-inc/supermaven-nvim/issues/48#issuecomment-2155404131) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
 <!--END_SECTION:activity-->
 
 </details>
