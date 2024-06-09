@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2156217984) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-2. 🗣 Commented on [#89](https://github.com/charmbracelet/freeze/issues/89#issuecomment-2156217512) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-3. 💪 Opened PR [#107](https://github.com/charmbracelet/freeze/pull/107) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-4. 🗣 Commented on [#57](https://github.com/supermaven-inc/supermaven-nvim/issues/57#issuecomment-2156159095) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-5. 💪 Opened PR [#58](https://github.com/supermaven-inc/supermaven-nvim/pull/58) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+1. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2156497785) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+2. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2156217984) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+3. 🗣 Commented on [#89](https://github.com/charmbracelet/freeze/issues/89#issuecomment-2156217512) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+4. 💪 Opened PR [#107](https://github.com/charmbracelet/freeze/pull/107) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+5. 🗣 Commented on [#57](https://github.com/supermaven-inc/supermaven-nvim/issues/57#issuecomment-2156159095) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
 <!--END_SECTION:activity-->
 
 </details>
