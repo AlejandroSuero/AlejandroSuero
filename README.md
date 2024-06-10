@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2156497785) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-2. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2156217984) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-3. 🗣 Commented on [#89](https://github.com/charmbracelet/freeze/issues/89#issuecomment-2156217512) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-4. 💪 Opened PR [#107](https://github.com/charmbracelet/freeze/pull/107) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-5. 🗣 Commented on [#57](https://github.com/supermaven-inc/supermaven-nvim/issues/57#issuecomment-2156159095) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+1. 🗣 Commented on [#59](https://github.com/supermaven-inc/supermaven-nvim/issues/59#issuecomment-2156817175) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+2. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2156816246) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+3. ❗ Opened issue [#14](https://github.com/AlejandroSuero/freeze-code.nvim/issues/14) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
+4. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2156753284) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+5. ❗ Opened issue [#58](https://github.com/golang-design/clipboard/issues/58) in [golang-design/clipboard](https://github.com/golang-design/clipboard)
 <!--END_SECTION:activity-->
 
 </details>
