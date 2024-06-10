@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/supermaven-inc/supermaven-nvim/issues/59#issuecomment-2156817175) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-2. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2156816246) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-3. ❗ Opened issue [#14](https://github.com/AlejandroSuero/freeze-code.nvim/issues/14) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
-4. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2156753284) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-5. ❗ Opened issue [#58](https://github.com/golang-design/clipboard/issues/58) in [golang-design/clipboard](https://github.com/golang-design/clipboard)
+1. 🗣 Commented on [#59](https://github.com/supermaven-inc/supermaven-nvim/issues/59#issuecomment-2158126449) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+2. 🗣 Commented on [#59](https://github.com/supermaven-inc/supermaven-nvim/issues/59#issuecomment-2158116169) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+3. 🗣 Commented on [#59](https://github.com/supermaven-inc/supermaven-nvim/issues/59#issuecomment-2158086410) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2158045625) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+5. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2157819214) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 <!--END_SECTION:activity-->
 
 </details>
