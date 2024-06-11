@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/supermaven-inc/supermaven-nvim/issues/59#issuecomment-2158126449) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-2. 🗣 Commented on [#59](https://github.com/supermaven-inc/supermaven-nvim/issues/59#issuecomment-2158116169) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-3. 🗣 Commented on [#59](https://github.com/supermaven-inc/supermaven-nvim/issues/59#issuecomment-2158086410) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2158045625) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-5. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2157819214) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+1. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2159486144) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+2. 🗣 Commented on [#2](https://github.com/SilasMarvin/lsp-ai/issues/2#issuecomment-2159257983) in [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai)
+3. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2159221970) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+4. 🎉 Merged PR [#8](https://github.com/AlejandroSuero/selene-action/pull/8) in [AlejandroSuero/selene-action](https://github.com/AlejandroSuero/selene-action)
+5. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2159175684) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 <!--END_SECTION:activity-->
 
 </details>
