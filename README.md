@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/charmbracelet/freeze/pull/97#issuecomment-2162786866) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-2. 🗣 Commented on [#97](https://github.com/charmbracelet/freeze/pull/97#issuecomment-2162657455) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-3. 🗣 Commented on [#58](https://github.com/golang-design/clipboard/issues/58#issuecomment-2162655745) in [golang-design/clipboard](https://github.com/golang-design/clipboard)
-4. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2162556575) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-5. 🗣 Commented on [#963](https://github.com/midudev/la-velada-web-oficial/issues/963#issuecomment-2161689171) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+1. ❗ Opened issue [#1](https://github.com/AlejandroSuero/chess-game/issues/1) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
+2. 🗣 Commented on [#97](https://github.com/charmbracelet/freeze/pull/97#issuecomment-2162786866) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+3. 🗣 Commented on [#97](https://github.com/charmbracelet/freeze/pull/97#issuecomment-2162657455) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+4. 🗣 Commented on [#58](https://github.com/golang-design/clipboard/issues/58#issuecomment-2162655745) in [golang-design/clipboard](https://github.com/golang-design/clipboard)
+5. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2162556575) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 <!--END_SECTION:activity-->
 
 </details>
