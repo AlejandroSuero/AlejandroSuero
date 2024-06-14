@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2166847928) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-2. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2166712524) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-3. ❗ Opened issue [#4](https://github.com/AlejandroSuero/chess-game/issues/4) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
-4. ❗ Opened issue [#3](https://github.com/AlejandroSuero/chess-game/issues/3) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
-5. 🎉 Merged PR [#2](https://github.com/AlejandroSuero/chess-game/pull/2) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
+1. 💪 Opened PR [#70](https://github.com/scottmckendry/cyberdream.nvim/pull/70) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+2. 🗣 Commented on [#69](https://github.com/scottmckendry/cyberdream.nvim/issues/69#issuecomment-2167828750) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+3. 🗣 Commented on [#69](https://github.com/scottmckendry/cyberdream.nvim/issues/69#issuecomment-2167743938) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+4. ❗ Opened issue [#69](https://github.com/scottmckendry/cyberdream.nvim/issues/69) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+5. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2166847928) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 <!--END_SECTION:activity-->
 
 </details>
