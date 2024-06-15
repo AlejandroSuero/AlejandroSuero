@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/scottmckendry/cyberdream.nvim/pull/74#issuecomment-2168968795) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-2. 🗣 Commented on [#74](https://github.com/scottmckendry/cyberdream.nvim/pull/74#issuecomment-2168963187) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-3. 🗣 Commented on [#74](https://github.com/scottmckendry/cyberdream.nvim/pull/74#issuecomment-2168962564) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-4. 🗣 Commented on [#74](https://github.com/scottmckendry/cyberdream.nvim/pull/74#issuecomment-2168880429) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-5. 🗣 Commented on [#74](https://github.com/scottmckendry/cyberdream.nvim/pull/74#issuecomment-2168854596) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+1. 🗣 Commented on [#2](https://github.com/SilasMarvin/lsp-ai/issues/2#issuecomment-2169068390) in [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai)
+2. 🗣 Commented on [#2](https://github.com/SilasMarvin/lsp-ai/issues/2#issuecomment-2169036263) in [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai)
+3. 🗣 Commented on [#963](https://github.com/midudev/la-velada-web-oficial/issues/963#issuecomment-2169035316) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+4. 🗣 Commented on [#964](https://github.com/midudev/la-velada-web-oficial/issues/964#issuecomment-2169035017) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+5. 💪 Opened PR [#966](https://github.com/midudev/la-velada-web-oficial/pull/966) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
 <!--END_SECTION:activity-->
 
 </details>
