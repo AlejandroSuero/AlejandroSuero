@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/scottmckendry/cyberdream.nvim/pull/70) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-2. 🗣 Commented on [#69](https://github.com/scottmckendry/cyberdream.nvim/issues/69#issuecomment-2167828750) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-3. 🗣 Commented on [#69](https://github.com/scottmckendry/cyberdream.nvim/issues/69#issuecomment-2167743938) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-4. ❗ Opened issue [#69](https://github.com/scottmckendry/cyberdream.nvim/issues/69) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-5. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2166847928) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+1. 🗣 Commented on [#74](https://github.com/scottmckendry/cyberdream.nvim/pull/74#issuecomment-2168968795) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+2. 🗣 Commented on [#74](https://github.com/scottmckendry/cyberdream.nvim/pull/74#issuecomment-2168963187) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+3. 🗣 Commented on [#74](https://github.com/scottmckendry/cyberdream.nvim/pull/74#issuecomment-2168962564) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+4. 🗣 Commented on [#74](https://github.com/scottmckendry/cyberdream.nvim/pull/74#issuecomment-2168880429) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+5. 🗣 Commented on [#74](https://github.com/scottmckendry/cyberdream.nvim/pull/74#issuecomment-2168854596) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
 <!--END_SECTION:activity-->
 
 </details>
