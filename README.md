@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AlejandroSuero/cyberdream.nvim/pull/1) in [AlejandroSuero/cyberdream.nvim](https://github.com/AlejandroSuero/cyberdream.nvim)
-2. ❗ Opened issue [#53](https://github.com/igor-petruk/scriptisto/issues/53) in [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto)
-3. 🗣 Commented on [#58](https://github.com/supermaven-inc/supermaven-nvim/pull/58#issuecomment-2169992663) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. 🗣 Commented on [#2](https://github.com/SilasMarvin/lsp-ai/issues/2#issuecomment-2169068390) in [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai)
-5. 🗣 Commented on [#2](https://github.com/SilasMarvin/lsp-ai/issues/2#issuecomment-2169036263) in [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai)
+1. ❗ Opened issue [#79](https://github.com/scottmckendry/cyberdream.nvim/issues/79) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+2. 🗣 Commented on [#78](https://github.com/scottmckendry/cyberdream.nvim/issues/78#issuecomment-2171923199) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+3. ❗ Opened issue [#78](https://github.com/scottmckendry/cyberdream.nvim/issues/78) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+4. 💪 Opened PR [#77](https://github.com/scottmckendry/cyberdream.nvim/pull/77) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+5. 💪 Opened PR [#129](https://github.com/AstroNvim/astrotheme/pull/129) in [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme)
 <!--END_SECTION:activity-->
 
 </details>
