@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/AlejandroSuero/selene-action/pull/9) in [AlejandroSuero/selene-action](https://github.com/AlejandroSuero/selene-action)
-2. 🗣 Commented on [#77](https://github.com/scottmckendry/cyberdream.nvim/pull/77#issuecomment-2174266358) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-3. 🎉 Merged PR [#10](https://github.com/AlejandroSuero/selene-linter-action/pull/10) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-4. 🗣 Commented on [#53](https://github.com/igor-petruk/scriptisto/issues/53#issuecomment-2173947351) in [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto)
-5. 🗣 Commented on [#77](https://github.com/scottmckendry/cyberdream.nvim/pull/77#issuecomment-2173833416) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+1. 🎉 Merged PR [#2](https://github.com/AlejandroSuero/3D-product-customization/pull/2) in [AlejandroSuero/3D-product-customization](https://github.com/AlejandroSuero/3D-product-customization)
+2. 💪 Opened PR [#2](https://github.com/AlejandroSuero/3D-product-customization/pull/2) in [AlejandroSuero/3D-product-customization](https://github.com/AlejandroSuero/3D-product-customization)
+3. 🎉 Merged PR [#15](https://github.com/AlejandroSuero/freeze-code.nvim/pull/15) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
+4. 💪 Opened PR [#15](https://github.com/AlejandroSuero/freeze-code.nvim/pull/15) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
+5. 💪 Opened PR [#967](https://github.com/midudev/la-velada-web-oficial/pull/967) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
 <!--END_SECTION:activity-->
 
 </details>
