@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#79](https://github.com/scottmckendry/cyberdream.nvim/issues/79) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-2. 🗣 Commented on [#78](https://github.com/scottmckendry/cyberdream.nvim/issues/78#issuecomment-2171923199) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-3. ❗ Opened issue [#78](https://github.com/scottmckendry/cyberdream.nvim/issues/78) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-4. 💪 Opened PR [#77](https://github.com/scottmckendry/cyberdream.nvim/pull/77) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
-5. 💪 Opened PR [#129](https://github.com/AstroNvim/astrotheme/pull/129) in [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme)
+1. ❌ Closed PR [#9](https://github.com/AlejandroSuero/selene-action/pull/9) in [AlejandroSuero/selene-action](https://github.com/AlejandroSuero/selene-action)
+2. 🗣 Commented on [#77](https://github.com/scottmckendry/cyberdream.nvim/pull/77#issuecomment-2174266358) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
+3. 🎉 Merged PR [#10](https://github.com/AlejandroSuero/selene-linter-action/pull/10) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+4. 🗣 Commented on [#53](https://github.com/igor-petruk/scriptisto/issues/53#issuecomment-2173947351) in [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto)
+5. 🗣 Commented on [#77](https://github.com/scottmckendry/cyberdream.nvim/pull/77#issuecomment-2173833416) in [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim)
 <!--END_SECTION:activity-->
 
 </details>
