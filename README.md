@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AlejandroSuero/3D-product-customization/pull/2) in [AlejandroSuero/3D-product-customization](https://github.com/AlejandroSuero/3D-product-customization)
-2. 💪 Opened PR [#2](https://github.com/AlejandroSuero/3D-product-customization/pull/2) in [AlejandroSuero/3D-product-customization](https://github.com/AlejandroSuero/3D-product-customization)
-3. 🎉 Merged PR [#15](https://github.com/AlejandroSuero/freeze-code.nvim/pull/15) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
-4. 💪 Opened PR [#15](https://github.com/AlejandroSuero/freeze-code.nvim/pull/15) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
-5. 💪 Opened PR [#967](https://github.com/midudev/la-velada-web-oficial/pull/967) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+1. 🗣 Commented on [#96](https://github.com/huggingface/llm.nvim/issues/96#issuecomment-2176962801) in [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim)
+2. 🗣 Commented on [#19](https://github.com/supermaven-inc/supermaven-nvim/issues/19#issuecomment-2176942360) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+3. 🎉 Merged PR [#2](https://github.com/AlejandroSuero/3D-product-customization/pull/2) in [AlejandroSuero/3D-product-customization](https://github.com/AlejandroSuero/3D-product-customization)
+4. 💪 Opened PR [#2](https://github.com/AlejandroSuero/3D-product-customization/pull/2) in [AlejandroSuero/3D-product-customization](https://github.com/AlejandroSuero/3D-product-customization)
+5. 🎉 Merged PR [#15](https://github.com/AlejandroSuero/freeze-code.nvim/pull/15) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
 <!--END_SECTION:activity-->
 
 </details>
