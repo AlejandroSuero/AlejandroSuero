@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/supermaven-inc/supermaven-nvim/issues/64#issuecomment-2178895078) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-2. 🗣 Commented on [#64](https://github.com/supermaven-inc/supermaven-nvim/issues/64#issuecomment-2178242785) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-3. 🗣 Commented on [#96](https://github.com/huggingface/llm.nvim/issues/96#issuecomment-2176962801) in [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim)
-4. 🗣 Commented on [#19](https://github.com/supermaven-inc/supermaven-nvim/issues/19#issuecomment-2176942360) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-5. 🎉 Merged PR [#2](https://github.com/AlejandroSuero/3D-product-customization/pull/2) in [AlejandroSuero/3D-product-customization](https://github.com/AlejandroSuero/3D-product-customization)
+1. 🎉 Merged PR [#6](https://github.com/AlejandroSuero/chess-game/pull/6) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
+2. 💪 Opened PR [#6](https://github.com/AlejandroSuero/chess-game/pull/6) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
+3. 🔒 Closed issue [#3](https://github.com/AlejandroSuero/chess-game/issues/3) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
+4. 🎉 Merged PR [#5](https://github.com/AlejandroSuero/chess-game/pull/5) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
+5. 💪 Opened PR [#5](https://github.com/AlejandroSuero/chess-game/pull/5) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
 <!--END_SECTION:activity-->
 
 </details>
