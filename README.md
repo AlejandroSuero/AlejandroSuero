@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/AlejandroSuero/chess-game/pull/6) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
-2. 💪 Opened PR [#6](https://github.com/AlejandroSuero/chess-game/pull/6) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
-3. 🔒 Closed issue [#3](https://github.com/AlejandroSuero/chess-game/issues/3) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
-4. 🎉 Merged PR [#5](https://github.com/AlejandroSuero/chess-game/pull/5) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
-5. 💪 Opened PR [#5](https://github.com/AlejandroSuero/chess-game/pull/5) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
+1. 🎉 Merged PR [#11](https://github.com/AlejandroSuero/selene-linter-action/pull/11) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+2. 🎉 Merged PR [#6](https://github.com/AlejandroSuero/chess-game/pull/6) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
+3. 💪 Opened PR [#6](https://github.com/AlejandroSuero/chess-game/pull/6) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
+4. 🔒 Closed issue [#3](https://github.com/AlejandroSuero/chess-game/issues/3) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
+5. 🎉 Merged PR [#5](https://github.com/AlejandroSuero/chess-game/pull/5) in [AlejandroSuero/chess-game](https://github.com/AlejandroSuero/chess-game)
 <!--END_SECTION:activity-->
 
 </details>
