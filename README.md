@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/AlejandroSuero/selene-linter-action/pull/19) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-2. 🎉 Merged PR [#15](https://github.com/AlejandroSuero/selene-linter-action/pull/15) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-3. 🎉 Merged PR [#12](https://github.com/AlejandroSuero/selene-linter-action/pull/12) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-4. 🗣 Commented on [#16](https://github.com/AlejandroSuero/freeze-code.nvim/issues/16#issuecomment-2212564130) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
-5. 🗣 Commented on [#70](https://github.com/supermaven-inc/supermaven-nvim/issues/70#issuecomment-2212548716) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+1. 🎉 Merged PR [#21](https://github.com/AlejandroSuero/selene-linter-action/pull/21) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+2. 🎉 Merged PR [#20](https://github.com/AlejandroSuero/selene-linter-action/pull/20) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+3. 🎉 Merged PR [#19](https://github.com/AlejandroSuero/selene-linter-action/pull/19) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+4. 🎉 Merged PR [#15](https://github.com/AlejandroSuero/selene-linter-action/pull/15) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+5. 🎉 Merged PR [#12](https://github.com/AlejandroSuero/selene-linter-action/pull/12) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
 <!--END_SECTION:activity-->
 
 </details>
