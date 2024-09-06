@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/charm-and-friends/freeze.nvim/issues/11#issuecomment-2332521920) in [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim)
-2. 🗣 Commented on [#119](https://github.com/charmbracelet/freeze/pull/119#issuecomment-2332507047) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-3. 🗣 Commented on [#119](https://github.com/charmbracelet/freeze/pull/119#issuecomment-2332449587) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-4. 🗣 Commented on [#11](https://github.com/charm-and-friends/freeze.nvim/issues/11#issuecomment-2332432793) in [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim)
-5. 🗣 Commented on [#11](https://github.com/charm-and-friends/freeze.nvim/issues/11#issuecomment-2332349773) in [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim)
+1. 💪 Opened PR [#12](https://github.com/charm-and-friends/freeze.nvim/pull/12) in [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim)
+2. 🗣 Commented on [#11](https://github.com/charm-and-friends/freeze.nvim/issues/11#issuecomment-2332521920) in [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim)
+3. 🗣 Commented on [#119](https://github.com/charmbracelet/freeze/pull/119#issuecomment-2332507047) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+4. 🗣 Commented on [#119](https://github.com/charmbracelet/freeze/pull/119#issuecomment-2332449587) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+5. 🗣 Commented on [#11](https://github.com/charm-and-friends/freeze.nvim/issues/11#issuecomment-2332432793) in [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim)
 <!--END_SECTION:activity-->
 
 </details>
