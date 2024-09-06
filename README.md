@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/charmbracelet/freeze/issues/118#issuecomment-2329828390) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-2. 💪 Opened PR [#119](https://github.com/charmbracelet/freeze/pull/119) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-3. 🎉 Merged PR [#17](https://github.com/AlejandroSuero/freeze-code.nvim/pull/17) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
-4. ❌ Closed PR [#24](https://github.com/AlejandroSuero/selene-linter-action/pull/24) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-5. 🎉 Merged PR [#23](https://github.com/AlejandroSuero/selene-linter-action/pull/23) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+1. 🗣 Commented on [#11](https://github.com/charm-and-friends/freeze.nvim/issues/11#issuecomment-2332521920) in [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim)
+2. 🗣 Commented on [#119](https://github.com/charmbracelet/freeze/pull/119#issuecomment-2332507047) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+3. 🗣 Commented on [#119](https://github.com/charmbracelet/freeze/pull/119#issuecomment-2332449587) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+4. 🗣 Commented on [#11](https://github.com/charm-and-friends/freeze.nvim/issues/11#issuecomment-2332432793) in [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim)
+5. 🗣 Commented on [#11](https://github.com/charm-and-friends/freeze.nvim/issues/11#issuecomment-2332349773) in [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim)
 <!--END_SECTION:activity-->
 
 </details>
