@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/supermaven-inc/supermaven-nvim/issues/77#issuecomment-2336649097) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-2. 🗣 Commented on [#77](https://github.com/supermaven-inc/supermaven-nvim/issues/77#issuecomment-2336642412) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-3. ❗ Opened issue [#3971](https://github.com/oxsecurity/megalinter/issues/3971) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
-4. ❗ Opened issue [#29778](https://github.com/ppy/osu/issues/29778) in [ppy/osu](https://github.com/ppy/osu)
-5. 🗣 Commented on [#13](https://github.com/charm-and-friends/freeze.nvim/issues/13#issuecomment-2334060668) in [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim)
+1. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2336701714) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+2. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2336685308) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+3. 🗣 Commented on [#77](https://github.com/supermaven-inc/supermaven-nvim/issues/77#issuecomment-2336649097) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. 🗣 Commented on [#77](https://github.com/supermaven-inc/supermaven-nvim/issues/77#issuecomment-2336642412) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+5. ❗ Opened issue [#3971](https://github.com/oxsecurity/megalinter/issues/3971) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
 <!--END_SECTION:activity-->
 
 </details>
