@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2336701714) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-2. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2336685308) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-3. 🗣 Commented on [#77](https://github.com/supermaven-inc/supermaven-nvim/issues/77#issuecomment-2336649097) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. 🗣 Commented on [#77](https://github.com/supermaven-inc/supermaven-nvim/issues/77#issuecomment-2336642412) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-5. ❗ Opened issue [#3971](https://github.com/oxsecurity/megalinter/issues/3971) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
+1. 🗣 Commented on [#3971](https://github.com/oxsecurity/megalinter/issues/3971#issuecomment-2337762027) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
+2. 💪 Opened PR [#3978](https://github.com/oxsecurity/megalinter/pull/3978) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
+3. 🗣 Commented on [#3971](https://github.com/oxsecurity/megalinter/issues/3971#issuecomment-2337649245) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
+4. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2336701714) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+5. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2336685308) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 <!--END_SECTION:activity-->
 
 </details>
