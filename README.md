@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3971](https://github.com/oxsecurity/megalinter/issues/3971#issuecomment-2337762027) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
-2. 💪 Opened PR [#3978](https://github.com/oxsecurity/megalinter/pull/3978) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
-3. 🗣 Commented on [#3971](https://github.com/oxsecurity/megalinter/issues/3971#issuecomment-2337649245) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
-4. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2336701714) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-5. 🗣 Commented on [#107](https://github.com/charmbracelet/freeze/pull/107#issuecomment-2336685308) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+1. 🗣 Commented on [#90](https://github.com/supermaven-inc/supermaven-nvim/issues/90#issuecomment-2339215742) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+2. 🗣 Commented on [#3978](https://github.com/oxsecurity/megalinter/pull/3978#issuecomment-2338846368) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
+3. 🗣 Commented on [#3978](https://github.com/oxsecurity/megalinter/pull/3978#issuecomment-2338836620) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
+4. ❌ Closed PR [#25](https://github.com/AlejandroSuero/selene-linter-action/pull/25) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+5. 🎉 Merged PR [#26](https://github.com/AlejandroSuero/selene-linter-action/pull/26) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
 <!--END_SECTION:activity-->
 
 </details>
