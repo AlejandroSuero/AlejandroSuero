@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#92](https://github.com/supermaven-inc/supermaven-nvim/pull/92) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-2. 💪 Opened PR [#91](https://github.com/supermaven-inc/supermaven-nvim/pull/91) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-3. 🗣 Commented on [#78](https://github.com/supermaven-inc/supermaven-nvim/issues/78#issuecomment-2343194126) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. 🗣 Commented on [#3985](https://github.com/oxsecurity/megalinter/pull/3985#issuecomment-2343191145) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
-5. 🗣 Commented on [#76](https://github.com/supermaven-inc/supermaven-nvim/issues/76#issuecomment-2342450998) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+1. 🗣 Commented on [#3985](https://github.com/oxsecurity/megalinter/pull/3985#issuecomment-2344776789) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
+2. 💪 Opened PR [#92](https://github.com/supermaven-inc/supermaven-nvim/pull/92) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+3. 💪 Opened PR [#91](https://github.com/supermaven-inc/supermaven-nvim/pull/91) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. 🗣 Commented on [#78](https://github.com/supermaven-inc/supermaven-nvim/issues/78#issuecomment-2343194126) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+5. 🗣 Commented on [#3985](https://github.com/oxsecurity/megalinter/pull/3985#issuecomment-2343191145) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
 <!--END_SECTION:activity-->
 
 </details>
