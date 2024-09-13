@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3985](https://github.com/oxsecurity/megalinter/pull/3985#issuecomment-2346075328) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
-2. 🗣 Commented on [#3985](https://github.com/oxsecurity/megalinter/pull/3985#issuecomment-2346067915) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
-3. 🗣 Commented on [#3985](https://github.com/oxsecurity/megalinter/pull/3985#issuecomment-2345913263) in [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
-4. ❌ Closed PR [#3](https://github.com/AlejandroSuero/megalinter/pull/3) in [AlejandroSuero/megalinter](https://github.com/AlejandroSuero/megalinter)
-5. 💪 Opened PR [#3](https://github.com/AlejandroSuero/megalinter/pull/3) in [AlejandroSuero/megalinter](https://github.com/AlejandroSuero/megalinter)
+1. 💪 Opened PR [#94](https://github.com/supermaven-inc/supermaven-nvim/pull/94) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+2. 🗣 Commented on [#67](https://github.com/supermaven-inc/supermaven-nvim/issues/67#issuecomment-2347325440) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+3. 🗣 Commented on [#93](https://github.com/supermaven-inc/supermaven-nvim/pull/93#issuecomment-2347310439) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. ❗ Opened issue [#892](https://github.com/JohnnyMorganz/StyLua/issues/892) in [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua)
+5. ❌ Closed PR [#2](https://github.com/AlejandroSuero/megalinter/pull/2) in [AlejandroSuero/megalinter](https://github.com/AlejandroSuero/megalinter)
 <!--END_SECTION:activity-->
 
 </details>
