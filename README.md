@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com/supermaven-inc/supermaven-nvim/pull/94) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-2. 🗣 Commented on [#67](https://github.com/supermaven-inc/supermaven-nvim/issues/67#issuecomment-2347325440) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-3. 🗣 Commented on [#93](https://github.com/supermaven-inc/supermaven-nvim/pull/93#issuecomment-2347310439) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. ❗ Opened issue [#892](https://github.com/JohnnyMorganz/StyLua/issues/892) in [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua)
-5. ❌ Closed PR [#2](https://github.com/AlejandroSuero/megalinter/pull/2) in [AlejandroSuero/megalinter](https://github.com/AlejandroSuero/megalinter)
+1. 🗣 Commented on [#20](https://github.com/notomo/vusted/issues/20#issuecomment-2348826972) in [notomo/vusted](https://github.com/notomo/vusted)
+2. ❗ Opened issue [#20](https://github.com/notomo/vusted/issues/20) in [notomo/vusted](https://github.com/notomo/vusted)
+3. 🗣 Commented on [#93](https://github.com/supermaven-inc/supermaven-nvim/pull/93#issuecomment-2348325241) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. 💪 Opened PR [#94](https://github.com/supermaven-inc/supermaven-nvim/pull/94) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+5. 🗣 Commented on [#67](https://github.com/supermaven-inc/supermaven-nvim/issues/67#issuecomment-2347325440) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
 <!--END_SECTION:activity-->
 
 </details>
