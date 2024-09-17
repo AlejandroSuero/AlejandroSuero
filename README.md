@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/AstroNvim/astrotheme/pull/144#issuecomment-2351577889) in [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme)
-2. 🗣 Commented on [#144](https://github.com/AstroNvim/astrotheme/pull/144#issuecomment-2351382494) in [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme)
-3. 💪 Opened PR [#144](https://github.com/AstroNvim/astrotheme/pull/144) in [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme)
-4. ❗ Opened issue [#143](https://github.com/AstroNvim/astrotheme/issues/143) in [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme)
-5. 🗣 Commented on [#79](https://github.com/supermaven-inc/supermaven-nvim/issues/79#issuecomment-2349150068) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+1. 🗣 Commented on [#78](https://github.com/nvimtools/none-ls.nvim/issues/78#issuecomment-2353702044) in [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)
+2. 🗣 Commented on [#96](https://github.com/supermaven-inc/supermaven-nvim/pull/96#issuecomment-2353684923) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+3. ❗ Opened issue [#98](https://github.com/supermaven-inc/supermaven-nvim/issues/98) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. 🗣 Commented on [#97](https://github.com/supermaven-inc/supermaven-nvim/issues/97#issuecomment-2353611255) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+5. 🎉 Merged PR [#28](https://github.com/AlejandroSuero/selene-linter-action/pull/28) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
 <!--END_SECTION:activity-->
 
 </details>
