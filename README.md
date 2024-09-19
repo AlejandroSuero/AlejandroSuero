@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/nvimtools/none-ls.nvim/issues/78#issuecomment-2353702044) in [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)
-2. 🗣 Commented on [#96](https://github.com/supermaven-inc/supermaven-nvim/pull/96#issuecomment-2353684923) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-3. ❗ Opened issue [#98](https://github.com/supermaven-inc/supermaven-nvim/issues/98) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. 🗣 Commented on [#97](https://github.com/supermaven-inc/supermaven-nvim/issues/97#issuecomment-2353611255) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-5. 🎉 Merged PR [#28](https://github.com/AlejandroSuero/selene-linter-action/pull/28) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+1. ❗ Opened issue [#5](https://github.com/AlejandroSuero/nrg_trial/issues/5) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
+2. ❗ Opened issue [#4](https://github.com/AlejandroSuero/nrg_trial/issues/4) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
+3. ❗ Opened issue [#3](https://github.com/AlejandroSuero/nrg_trial/issues/3) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
+4. ❗ Opened issue [#2](https://github.com/AlejandroSuero/nrg_trial/issues/2) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
+5. ❗ Opened issue [#1](https://github.com/AlejandroSuero/nrg_trial/issues/1) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
 <!--END_SECTION:activity-->
 
 </details>
