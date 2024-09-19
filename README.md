@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/AlejandroSuero/nrg_trial/issues/5) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
-2. ❗ Opened issue [#4](https://github.com/AlejandroSuero/nrg_trial/issues/4) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
-3. ❗ Opened issue [#3](https://github.com/AlejandroSuero/nrg_trial/issues/3) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
-4. ❗ Opened issue [#2](https://github.com/AlejandroSuero/nrg_trial/issues/2) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
-5. ❗ Opened issue [#1](https://github.com/AlejandroSuero/nrg_trial/issues/1) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
+1. 🗣 Commented on [#48](https://github.com/supermaven-inc/supermaven-nvim/issues/48#issuecomment-2360455148) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+2. ❗ Opened issue [#5](https://github.com/AlejandroSuero/nrg_trial/issues/5) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
+3. ❗ Opened issue [#4](https://github.com/AlejandroSuero/nrg_trial/issues/4) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
+4. ❗ Opened issue [#3](https://github.com/AlejandroSuero/nrg_trial/issues/3) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
+5. ❗ Opened issue [#2](https://github.com/AlejandroSuero/nrg_trial/issues/2) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
 <!--END_SECTION:activity-->
 
 </details>
