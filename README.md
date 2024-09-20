@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#622](https://github.com/nvim-lua/plenary.nvim/pull/622#issuecomment-2362308579) in [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
-2. 🗣 Commented on [#622](https://github.com/nvim-lua/plenary.nvim/pull/622#issuecomment-2362079460) in [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
-3. 🗣 Commented on [#48](https://github.com/supermaven-inc/supermaven-nvim/issues/48#issuecomment-2361400114) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. 🔒 Closed issue [#1](https://github.com/AlejandroSuero/nrg_trial/issues/1) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
-5. 🎉 Merged PR [#6](https://github.com/AlejandroSuero/nrg_trial/pull/6) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
+1. 🗣 Commented on [#100](https://github.com/supermaven-inc/supermaven-nvim/issues/100#issuecomment-2363015578) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+2. 🗣 Commented on [#622](https://github.com/nvim-lua/plenary.nvim/pull/622#issuecomment-2362922771) in [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
+3. 🗣 Commented on [#622](https://github.com/nvim-lua/plenary.nvim/pull/622#issuecomment-2362907969) in [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
+4. 🗣 Commented on [#622](https://github.com/nvim-lua/plenary.nvim/pull/622#issuecomment-2362894995) in [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
+5. 🗣 Commented on [#622](https://github.com/nvim-lua/plenary.nvim/pull/622#issuecomment-2362308579) in [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)
 <!--END_SECTION:activity-->
 
 </details>
