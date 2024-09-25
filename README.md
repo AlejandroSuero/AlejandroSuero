@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AlejandroSuero/estudiocactus_trial/pull/1) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
-2. 💪 Opened PR [#1](https://github.com/AlejandroSuero/estudiocactus_trial/pull/1) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
-3. 🎉 Merged PR [#29](https://github.com/AlejandroSuero/selene-linter-action/pull/29) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-4. 🎉 Merged PR [#7](https://github.com/AlejandroSuero/nrg_trial/pull/7) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
-5. 💪 Opened PR [#7](https://github.com/AlejandroSuero/nrg_trial/pull/7) in [AlejandroSuero/nrg_trial](https://github.com/AlejandroSuero/nrg_trial)
+1. 🎉 Merged PR [#5](https://github.com/AlejandroSuero/estudiocactus_trial/pull/5) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
+2. 💪 Opened PR [#5](https://github.com/AlejandroSuero/estudiocactus_trial/pull/5) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
+3. 🎉 Merged PR [#4](https://github.com/AlejandroSuero/estudiocactus_trial/pull/4) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
+4. 💪 Opened PR [#4](https://github.com/AlejandroSuero/estudiocactus_trial/pull/4) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
+5. 🎉 Merged PR [#3](https://github.com/AlejandroSuero/estudiocactus_trial/pull/3) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
 <!--END_SECTION:activity-->
 
 </details>
