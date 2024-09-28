@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/supermaven-inc/supermaven-nvim/pull/106#issuecomment-2378834523) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-2. 💪 Opened PR [#106](https://github.com/supermaven-inc/supermaven-nvim/pull/106) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-3. 🎉 Merged PR [#6](https://github.com/AlejandroSuero/estudiocactus_trial/pull/6) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
-4. 💪 Opened PR [#6](https://github.com/AlejandroSuero/estudiocactus_trial/pull/6) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
-5. 🎉 Merged PR [#5](https://github.com/AlejandroSuero/estudiocactus_trial/pull/5) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
+1. 🎉 Merged PR [#18](https://github.com/AlejandroSuero/freeze-code.nvim/pull/18) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
+2. 🗣 Commented on [#106](https://github.com/supermaven-inc/supermaven-nvim/pull/106#issuecomment-2378834523) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+3. 💪 Opened PR [#106](https://github.com/supermaven-inc/supermaven-nvim/pull/106) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. 🎉 Merged PR [#6](https://github.com/AlejandroSuero/estudiocactus_trial/pull/6) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
+5. 💪 Opened PR [#6](https://github.com/AlejandroSuero/estudiocactus_trial/pull/6) in [AlejandroSuero/estudiocactus_trial](https://github.com/AlejandroSuero/estudiocactus_trial)
 <!--END_SECTION:activity-->
 
 </details>
