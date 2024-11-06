@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/AlejandroSuero/selene-linter-action/pull/34) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-2. 🎉 Merged PR [#33](https://github.com/AlejandroSuero/selene-linter-action/pull/33) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-3. 🗣 Commented on [#119](https://github.com/charmbracelet/freeze/pull/119#issuecomment-2401952682) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-4. 🎉 Merged PR [#32](https://github.com/AlejandroSuero/selene-linter-action/pull/32) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-5. 🎉 Merged PR [#31](https://github.com/AlejandroSuero/selene-linter-action/pull/31) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+1. 🎉 Merged PR [#36](https://github.com/AlejandroSuero/selene-linter-action/pull/36) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+2. 🎉 Merged PR [#34](https://github.com/AlejandroSuero/selene-linter-action/pull/34) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+3. 🎉 Merged PR [#33](https://github.com/AlejandroSuero/selene-linter-action/pull/33) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+4. 🗣 Commented on [#119](https://github.com/charmbracelet/freeze/pull/119#issuecomment-2401952682) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+5. 🎉 Merged PR [#32](https://github.com/AlejandroSuero/selene-linter-action/pull/32) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
 <!--END_SECTION:activity-->
 
 </details>
