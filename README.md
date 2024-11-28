@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/AlejandroSuero/selene-linter-action/pull/38) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-2. 🗣 Commented on [#118](https://github.com/supermaven-inc/supermaven-nvim/issues/118#issuecomment-2473091059) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-3. 🎉 Merged PR [#36](https://github.com/AlejandroSuero/selene-linter-action/pull/36) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-4. 🎉 Merged PR [#34](https://github.com/AlejandroSuero/selene-linter-action/pull/34) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
-5. 🎉 Merged PR [#33](https://github.com/AlejandroSuero/selene-linter-action/pull/33) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+1. 🎉 Merged PR [#39](https://github.com/AlejandroSuero/selene-linter-action/pull/39) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+2. 🎉 Merged PR [#38](https://github.com/AlejandroSuero/selene-linter-action/pull/38) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+3. 🗣 Commented on [#118](https://github.com/supermaven-inc/supermaven-nvim/issues/118#issuecomment-2473091059) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. 🎉 Merged PR [#36](https://github.com/AlejandroSuero/selene-linter-action/pull/36) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+5. 🎉 Merged PR [#34](https://github.com/AlejandroSuero/selene-linter-action/pull/34) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
 <!--END_SECTION:activity-->
 
 </details>
