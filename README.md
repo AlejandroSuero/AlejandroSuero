@@ -28,7 +28,7 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/charmbracelet/freeze/pull/101#issuecomment-2599686725) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+1. 🗣 Commented on [#131](https://github.com/supermaven-inc/supermaven-nvim/issues/131#issuecomment-2677875505) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
 2. 🗣 Commented on [#97](https://github.com/charmbracelet/freeze/pull/97#issuecomment-2599271289) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 3. 🗣 Commented on [#101](https://github.com/charmbracelet/freeze/pull/101#issuecomment-2599267910) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
 4. 🗣 Commented on [#120](https://github.com/nvimtools/none-ls.nvim/issues/120#issuecomment-2599265191) in [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)
