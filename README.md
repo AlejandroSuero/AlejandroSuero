@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AlejandroSuero/go-insert-locale/pull/1) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
-2. 🗣 Commented on [#101](https://github.com/charmbracelet/freeze/pull/101#issuecomment-2726402009) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-3. 🗣 Commented on [#53](https://github.com/supermaven-inc/supermaven-nvim/pull/53#issuecomment-2726398668) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. 🗣 Commented on [#19](https://github.com/AlejandroSuero/freeze-code.nvim/pull/19#issuecomment-2726393463) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
-5. 🎉 Merged PR [#19](https://github.com/AlejandroSuero/freeze-code.nvim/pull/19) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
+1. 🚀 Published release [v0.0.2](https://github.com/AlejandroSuero/go-insert-locale/releases/tag/v0.0.2) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+2. 🎉 Merged PR [#3](https://github.com/AlejandroSuero/go-insert-locale/pull/3) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+3. 💪 Opened PR [#3](https://github.com/AlejandroSuero/go-insert-locale/pull/3) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+4. 🚀 Published release [v0.0.1](https://github.com/AlejandroSuero/go-insert-locale/releases/tag/v0.0.1) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+5. 🎉 Merged PR [#2](https://github.com/AlejandroSuero/go-insert-locale/pull/2) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
 <!--END_SECTION:activity-->
 
 </details>
