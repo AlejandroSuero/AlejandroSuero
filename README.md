@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/supermaven-inc/supermaven-nvim/issues/131#issuecomment-2677875505) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-2. 🗣 Commented on [#97](https://github.com/charmbracelet/freeze/pull/97#issuecomment-2599271289) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-3. 🗣 Commented on [#101](https://github.com/charmbracelet/freeze/pull/101#issuecomment-2599267910) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-4. 🗣 Commented on [#120](https://github.com/nvimtools/none-ls.nvim/issues/120#issuecomment-2599265191) in [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)
-5. 🎉 Merged PR [#39](https://github.com/AlejandroSuero/selene-linter-action/pull/39) in [AlejandroSuero/selene-linter-action](https://github.com/AlejandroSuero/selene-linter-action)
+1. 💪 Opened PR [#1](https://github.com/AlejandroSuero/go-insert-locale/pull/1) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+2. 🗣 Commented on [#101](https://github.com/charmbracelet/freeze/pull/101#issuecomment-2726402009) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+3. 🗣 Commented on [#53](https://github.com/supermaven-inc/supermaven-nvim/pull/53#issuecomment-2726398668) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
+4. 🗣 Commented on [#19](https://github.com/AlejandroSuero/freeze-code.nvim/pull/19#issuecomment-2726393463) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
+5. 🎉 Merged PR [#19](https://github.com/AlejandroSuero/freeze-code.nvim/pull/19) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
 <!--END_SECTION:activity-->
 
 </details>
