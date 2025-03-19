@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.2](https://github.com/AlejandroSuero/go-insert-locale/releases/tag/v0.0.2) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
-2. 🎉 Merged PR [#3](https://github.com/AlejandroSuero/go-insert-locale/pull/3) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
-3. 💪 Opened PR [#3](https://github.com/AlejandroSuero/go-insert-locale/pull/3) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
-4. 🚀 Published release [v0.0.1](https://github.com/AlejandroSuero/go-insert-locale/releases/tag/v0.0.1) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
-5. 🎉 Merged PR [#2](https://github.com/AlejandroSuero/go-insert-locale/pull/2) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+1. 🎉 Merged PR [#10](https://github.com/AlejandroSuero/go-insert-locale/pull/10) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+2. 💪 Opened PR [#10](https://github.com/AlejandroSuero/go-insert-locale/pull/10) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+3. 🎉 Merged PR [#9](https://github.com/AlejandroSuero/go-insert-locale/pull/9) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+4. 💪 Opened PR [#9](https://github.com/AlejandroSuero/go-insert-locale/pull/9) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+5. 🎉 Merged PR [#8](https://github.com/AlejandroSuero/go-insert-locale/pull/8) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
 <!--END_SECTION:activity-->
 
 </details>
