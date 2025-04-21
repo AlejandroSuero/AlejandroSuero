@@ -28,7 +28,7 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/AlejandroSuero/go-insert-locale/pull/10) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+1. 🗣 Commented on [#55](https://github.com/supermaven-inc/supermaven-nvim/issues/55#issuecomment-2818216066) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
 2. 💪 Opened PR [#10](https://github.com/AlejandroSuero/go-insert-locale/pull/10) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
 3. 🎉 Merged PR [#9](https://github.com/AlejandroSuero/go-insert-locale/pull/9) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
 4. 💪 Opened PR [#9](https://github.com/AlejandroSuero/go-insert-locale/pull/9) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
