@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1362](https://github.com/midudev/la-velada-web-oficial/pull/1362) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
-2. 💪 Opened PR [#1362](https://github.com/midudev/la-velada-web-oficial/pull/1362) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
-3. 🗣 Commented on [#55](https://github.com/supermaven-inc/supermaven-nvim/issues/55#issuecomment-2818216066) in [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim)
-4. 💪 Opened PR [#9](https://github.com/AlejandroSuero/go-insert-locale/pull/9) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
-5. 🎉 Merged PR [#8](https://github.com/AlejandroSuero/go-insert-locale/pull/8) in [AlejandroSuero/go-insert-locale](https://github.com/AlejandroSuero/go-insert-locale)
+1. 🎉 Merged PR [#1378](https://github.com/midudev/la-velada-web-oficial/pull/1378) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+2. 💪 Opened PR [#1378](https://github.com/midudev/la-velada-web-oficial/pull/1378) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+3. 🎉 Merged PR [#1377](https://github.com/midudev/la-velada-web-oficial/pull/1377) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+4. 💪 Opened PR [#1377](https://github.com/midudev/la-velada-web-oficial/pull/1377) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+5. 🎉 Merged PR [#1362](https://github.com/midudev/la-velada-web-oficial/pull/1362) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
 <!--END_SECTION:activity-->
 
 </details>
