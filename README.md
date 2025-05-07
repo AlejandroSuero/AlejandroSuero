@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1378](https://github.com/midudev/la-velada-web-oficial/pull/1378) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
-2. 💪 Opened PR [#1378](https://github.com/midudev/la-velada-web-oficial/pull/1378) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
-3. 🎉 Merged PR [#1377](https://github.com/midudev/la-velada-web-oficial/pull/1377) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
-4. 💪 Opened PR [#1377](https://github.com/midudev/la-velada-web-oficial/pull/1377) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
-5. 🎉 Merged PR [#1362](https://github.com/midudev/la-velada-web-oficial/pull/1362) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+1. 🎉 Merged PR [#1386](https://github.com/midudev/la-velada-web-oficial/pull/1386) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+2. 💪 Opened PR [#1386](https://github.com/midudev/la-velada-web-oficial/pull/1386) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+3. 🎉 Merged PR [#1378](https://github.com/midudev/la-velada-web-oficial/pull/1378) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+4. 💪 Opened PR [#1378](https://github.com/midudev/la-velada-web-oficial/pull/1378) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+5. 🎉 Merged PR [#1377](https://github.com/midudev/la-velada-web-oficial/pull/1377) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
 <!--END_SECTION:activity-->
 
 </details>
