@@ -28,11 +28,11 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1386](https://github.com/midudev/la-velada-web-oficial/pull/1386) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
-2. 💪 Opened PR [#1386](https://github.com/midudev/la-velada-web-oficial/pull/1386) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
-3. 🎉 Merged PR [#1378](https://github.com/midudev/la-velada-web-oficial/pull/1378) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
-4. 💪 Opened PR [#1378](https://github.com/midudev/la-velada-web-oficial/pull/1378) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
-5. 🎉 Merged PR [#1377](https://github.com/midudev/la-velada-web-oficial/pull/1377) in [midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial)
+1. 🗣 Commented on [#1](https://github.com/AlejandroSuero/skills-introduction-to-secret-scanning/issues/1#issuecomment-2877715103) in [AlejandroSuero/skills-introduction-to-secret-scanning](https://github.com/AlejandroSuero/skills-introduction-to-secret-scanning)
+2. 🎉 Merged PR [#6](https://github.com/AlejandroSuero/skills-secure-repository-supply-chain/pull/6) in [AlejandroSuero/skills-secure-repository-supply-chain](https://github.com/AlejandroSuero/skills-secure-repository-supply-chain)
+3. 🎉 Merged PR [#3](https://github.com/AlejandroSuero/skills-secure-repository-supply-chain/pull/3) in [AlejandroSuero/skills-secure-repository-supply-chain](https://github.com/AlejandroSuero/skills-secure-repository-supply-chain)
+4. 🎉 Merged PR [#3](https://github.com/AlejandroSuero/skills-introduction-to-repository-management/pull/3) in [AlejandroSuero/skills-introduction-to-repository-management](https://github.com/AlejandroSuero/skills-introduction-to-repository-management)
+5. 🎉 Merged PR [#2](https://github.com/AlejandroSuero/skills-introduction-to-repository-management/pull/2) in [AlejandroSuero/skills-introduction-to-repository-management](https://github.com/AlejandroSuero/skills-introduction-to-repository-management)
 <!--END_SECTION:activity-->
 
 </details>
