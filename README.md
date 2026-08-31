@@ -28,7 +28,7 @@ Some of the projects I worked or I am currently working on are:
   <summary>Recent GitHub activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/nvimtools/none-ls.nvim/issues/120#issuecomment-3309684203) in [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim)
+1. 🔒 Closed issue [#16](https://github.com/AlejandroSuero/freeze-code.nvim/issues/16) in [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim)
 2. 🎉 Merged PR [#8](https://github.com/AlejandroSuero/skills-secure-repository-supply-chain/pull/8) in [AlejandroSuero/skills-secure-repository-supply-chain](https://github.com/AlejandroSuero/skills-secure-repository-supply-chain)
 3. 🎉 Merged PR [#7](https://github.com/AlejandroSuero/skills-secure-repository-supply-chain/pull/7) in [AlejandroSuero/skills-secure-repository-supply-chain](https://github.com/AlejandroSuero/skills-secure-repository-supply-chain)
 4. 🗣 Commented on [#1](https://github.com/AlejandroSuero/skills-introduction-to-secret-scanning/issues/1#issuecomment-2877715103) in [AlejandroSuero/skills-introduction-to-secret-scanning](https://github.com/AlejandroSuero/skills-introduction-to-secret-scanning)
